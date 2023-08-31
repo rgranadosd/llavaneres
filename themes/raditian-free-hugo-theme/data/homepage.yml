@@ -1,0 +1,294 @@
+# showcase
+showcase:
+  enable: true
+  title: " Benvinguts a "
+  subtitle: "la Secció Juvenil del Handbol Llavaneres!"
+  description: "Amb una història impressionant, som els campions de la Copa Catalunya i orgullosos cinquens en la lliga passada. Amb una passió renovada, encarem aquesta temporada amb la determinació de conquerir noves cimes. Fa dos anys, les nostres joves promeses es van convertir en campiones de Catalunya, demostrant el nostre compromís amb l'excel·lència.
+
+Aquest any, som més forts i més centrats que mai. Acompanyeu-nos mentre perseguim la glòria i creem moments inoblidables. Amb el vostre suport, tot és possible!
+
+Endavant cap a la victòria,
+
+"
+  image:
+    x: "img/who-am-i/logo.png"
+    _2x: "img/who-am-i/logo@2x.png"
+  imageMobile:
+    x: "img/showcase/showcase-mobile.jpg"
+
+
+# about
+about:
+  enable: true
+  title: "\ Qui \ som?"
+  content: '<p class="lead">
+
+    Som la secció juvenil del Club Handbol Llavaneres i representem una història única.
+     Tot i que no compartim la història dels equips tradicionals, hem estat desafiant expectatives 
+     i competint en les posicions davanteres. Demostrem que la passió supera qualsevol manca de reconeixement.
+    </p>
+    <p class="lead">
+    Preparats per enfrontar desafiaments i competir pel lideratge , creiem en el nostre potencial i en el poder de la unió. Som la secció juvenil del Club Handbol Llavaneres, amb la convicció que la determinació pot vèncer qualsevol desafiament.
+    </p>'
+  image:
+    x: "img/showcase/portada1.png"
+    _2x: "img/showcase/portada1@2x.png"
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Les nostres jugadoras"
+  items:
+    - name: "Marta Pastrana"
+      position: "Porteria"
+      icon: "icon-smile-fill"
+      image:
+        x: "img/testimonials/pastrana.png"
+        _2x: "img/testimonials/pastrana@2x.png"
+
+    - name: "Aina Pujal"
+      position: "Dorsal: 17"
+      image:
+        x: "img/testimonials/pujal.png"
+        _2x: "img/testimonials/pujal@2x.png"
+
+    - name: "Azimilza Olga"
+      position: "Porteria"
+      image:
+        x: "img/testimonials/doda.png"
+        _2x: "img/testimonials/doda@2x.jpg"
+
+    - name: "Carlota Muñoz"
+      position: "Dorsal: 18"
+      image:
+        x: "img/testimonials/carlota.png"
+        _2x: "img/testimonials/carlota@2x.png"
+    - name: "Laura Granados"
+      position: "Dorsal: 7"
+      image:
+        x: "img/testimonials/laura.png"
+        _2x: "img/testimonials/laura@2x.png"
+
+    - name: "Daya Fernández"
+      position: "Dorsal: 10"
+      content: ""
+      image:
+        x: "img/testimonials/daya.png"
+        _2x: "img/testimonials/daya@2x.png"
+
+    - name: "Núria Maqueda"
+      position: "Dorsal: "
+      image:
+        x: "img/testimonials/maqueda.png"
+        _2x: "img/testimonials/maqueda2x.png"
+    - name: "Abril Font"
+      position: "Dorsal: 8"
+      image:
+        x: "img/testimonials/abril.png"
+        _2x: "img/testimonials/abril@2x.png"
+
+    - name: "Irene Abós"
+      position: "Dorsal: 15"
+      image:
+        x: "img/testimonials/irene.png"
+        _2x: "img/testimonials/irene@2x.png"
+
+    - name: "Carla Lambea"
+      position: "Dorsal: 2"
+      image:
+        x: "img/testimonials/carla.png"
+        _2x: "img/testimonials/carla@2x.png"
+    - name: "Marta Linares"
+      position: "Dorsal: 9"
+      image:
+        x: "img/testimonials/linares.png"
+        _2x: "img/testimonials/linares@2x.png"
+
+    - name: "Neus Castanyer"
+      position: "Dorsal: 15"
+      image:
+        x: "img/testimonials/neus.png"
+        _2x: "img/testimonials/neus@2x.png"
+
+
+    - name: "Lucia Ortra"
+      position: "Dorsal: 24"
+      image:
+        x: "img/testimonials/lucia.png"
+        _2x: "img/testimonials/lucia@2x.png"
+    - name: "Ariadna Perez"
+      position: "Dorsal: "
+      image:
+        x: "img/testimonials/ariadna.png"
+        _2x: "img/testimonials/ariadna@2x.png"
+
+    - name: "Aina Serrano"
+      position: "Dorsal: "
+      image:
+        x: "img/testimonials/serrano.png"
+        _2x: "img/testimonials/serrano@2x.png"
+
+    - name: "Martina Sarasa"
+      position: "Dorsal: "
+      image:
+        x: "img/testimonials/silueta.png"
+        _2x: "img/testimonials/silueta@2x.png"
+
+    - name: "Queralt López"
+      position: "Dorsal: "
+      image:
+        x: "img/testimonials/silueta.png"
+        _2x: "img/testimonials/silueta@2x.png"
+
+    - name: "Mireia Vidal"
+      position: "Dorsal: 34"
+      image:
+        x: "img/testimonials/silueta.png"
+        _2x: "img/testimonials/silueta@2x.png"   
+# education
+education:
+  enable: true
+  title: "Seleccions Esportives"
+  items:
+    - university: "Carlota Muñoz"
+      year: "2022-2023"
+      degree: "Selecció Catalana "
+
+    - university: "Núria Maqueda"
+      year: "2022-2023"
+      degree: "Selecció Catalana "
+
+
+    - university: "Daya Fernández"
+      year: "2022-2023"
+      degree: "Selecció Catalana "
+
+
+    - university: "Laura Granados"
+      year: "2022-2023"
+      degree: "Selecció Catalana "
+
+# experience
+experience:
+  enable: true
+  title: "Partits"
+  description: "Volem compartir amb vosaltres els emocionants partits que tenim al davant. Cada enfrontament és una nova oportunitat per mostrar la nostra dedicació i passió pel joc. En aquesta secció, trobareu els detalls dels pròxims partits, dates i rivals "
+  button:
+    icon: "icon-profile-fill"
+    btnText: "Federació Catalana"
+    URL: "https://www.rfebm.com/competiciones/competicion.php?seleccion=0&id=1018430&jornada=1&id_ambito=0"
+
+  items:
+    - title: "JÚNIOR REPORT LLAVANERES MARESME - HANDBOL SANT JOAN DESPÍ A"
+      company: "Pendent horari"
+      duration: "Sept 2023"
+
+    - title: "KH-7 BM. GRANOLLERS - JÚNIOR REPORT LLAVANERES MARESME"
+      company: "Pendent horari"
+      duration: "Sept 2023"
+
+    - title: "JÚNIOR REPORT LLAVANERES MARESME - HANDBOL GAVÀ"
+      company: "Pendent horari"
+      duration: "Oct 2023"
+
+# Client & Work
+client_and_work:
+  title: "Clients & Works"
+  enable: false
+
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Radity Finance - UI Kit"
+      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/radity-finance.jpg"
+        _2x: "img/works/radity-finance@2x.jpg"
+      is_even: true
+
+    - title: "Swiss Fintech Website"
+      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/swissfintech.jpg"
+        _2x: "img/works/swissfintech@2x.jpg"
+      is_even: false
+
+    - title: "Robo Advisor"
+      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/robo-advisor.jpg"
+        _2x: "img/works/robo-advisor@2x.jpg"
+      is_even: true
+
+
+
+# contact
+contact:
+  enable: false
+  title: "Contact"
+  form:
+    action: "#"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  phone:
+    title: "Phone Number"
+    number: "+41 (44) 505 10 99"
+  email:
+    title: "Email"
+    email: '<a href="mailto:team@radity.com">team@radity.com</a>'
+  address:
+    title: "Address"
+    address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."

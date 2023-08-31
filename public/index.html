@@ -1,0 +1,907 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta name="generator" content="Hugo 0.112.5">
+
+    <meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+
+<script>
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=GTM-000000' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-000000');
+</script>
+
+
+<title></title>
+<style>
+     
+    .rad-fade-in {
+        will-change: opacity, transform;
+        animation-name: rad-fade-in-fallback;
+        animation-duration: 5s;
+        animation-fill-mode: both;
+    }
+
+    @keyframes rad-fade-in-fallback {
+        0% {
+            opacity: 0;
+        }
+
+        75% {
+            opacity: 0;
+        }
+
+        100% {
+            opacity: 1;
+        }
+    }
+
+    .fonts-loaded .rad-fade-in.rad-waiting {
+        animation-name: none;
+        opacity: 0;
+    }
+
+    .fonts-loaded .rad-fade-in.rad-animate {
+        animation-name: rad-fade-in;
+        animation-duration: 1.1s;
+        animation-fill-mode: both;
+    }
+
+    @keyframes rad-fade-in {
+        0% {
+            opacity: 0;
+        }
+
+        100% {
+            opacity: 1;
+        }
+    }
+
+     
+    .rad-fade-in-long {
+        will-change: opacity, transform;
+        animation-name: rad-fade-in-long-fallback;
+        animation-duration: 8s;
+        animation-fill-mode: both;
+    }
+
+    @keyframes rad-fade-in-long-fallback {
+        0% {
+            opacity: 0;
+        }
+
+        75% {
+            opacity: 0;
+        }
+
+        100% {
+            opacity: 1;
+        }
+    }
+
+    .fonts-loaded .rad-fade-in-long.rad-waiting {
+        animation-name: none;
+        opacity: 0;
+    }
+
+    .fonts-loaded .rad-fade-in-long.rad-animate {
+        animation-name: rad-fade-in-long;
+        animation-duration: 2s;
+        animation-fill-mode: both;
+    }
+
+    @keyframes rad-fade-in-long {
+        0% {
+            opacity: 0;
+        }
+
+        20% {
+            opacity: 0;
+        }
+
+        100% {
+            opacity: 1;
+        }
+    }
+
+     
+    .rad-fade-down {
+        will-change: opacity, transform;
+        animation-name: rad-fade-down-fallback;
+        animation-duration: 5s;
+        animation-fill-mode: both;
+        transform: translateY(-30px);
+    }
+
+    @keyframes rad-fade-down-fallback {
+        0% {
+            opacity: 0;
+            transform: translateY(-30px);
+        }
+
+        75% {
+            opacity: 0;
+            transform: translateY(-30px);
+        }
+
+        100% {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    .fonts-loaded .rad-fade-down.rad-waiting {
+        animation-name: none;
+        opacity: 0;
+        transform: translateY(-30px);
+    }
+
+    .fonts-loaded .rad-fade-down.rad-animate {
+        animation-name: rad-fade-down;
+        animation-duration: 1.1s;
+    }
+
+    @keyframes rad-fade-down {
+        0% {
+            opacity: 0;
+            transform: translateY(-30px);
+        }
+
+        100% {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+     
+    .rad-scale-down {
+        will-change: opacity, transform;
+        animation-name: rad-scale-down-fallback;
+        animation-duration: 5s;
+        animation-fill-mode: both;
+        transform-origin: 50% 0;
+    }
+
+    @keyframes rad-scale-down-fallback {
+        0% {
+            opacity: 0;
+            transform: scaleY(0.95);
+        }
+
+        75% {
+            opacity: 0;
+            transform: scaleY(0.95);
+        }
+
+        100% {
+            opacity: 1;
+            transform: scaleY(1);
+        }
+    }
+
+    .fonts-loaded .rad-scale-down.rad-waiting {
+        animation-name: none;
+        opacity: 0;
+        transform: scaleY(0.95);
+    }
+
+    .fonts-loaded .rad-scale-down.rad-animate {
+        animation-name: rad-scale-down;
+        animation-duration: 1.1s;
+        animation-fill-mode: both;
+    }
+
+    @keyframes rad-scale-down {
+        0% {
+            opacity: 0;
+            transform: scaleY(0.95);
+        }
+
+        100% {
+            opacity: 1;
+            transform: scaleY(1);
+        }
+    }
+</style>
+
+
+<link rel="stylesheet" href="https://raditian-hugo.radity.com/css/main.css"/>
+
+<link rel="stylesheet" href="https://raditian-hugo.radity.com/css/rad-icons.css"/>
+
+<link rel="stylesheet" href="https://raditian-hugo.radity.com/css/custom.css"/>
+
+
+    
+
+
+</head>
+
+<body>
+
+	<header class="header fixed-top rad-animation-group" id="header">
+  <div class="container rad-fade-in">
+    <nav class="navbar navbar-expand-lg navbar-light p-0">
+      <a class="navbar-brand" href="https://raditian-hugo.radity.com/">
+        
+      </a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarSupportedContent, #header"
+        aria-controls="navbarSupportedContent"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-lg-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="https://raditian-hugo.radity.com/">HOME</a>
+          </li>
+          
+          <li class="nav-item">
+            <a data-scroll class="nav-link" href="#about"
+              >QUI SOM</a
+            >
+          </li>
+          
+          <li class="nav-item">
+            <a data-scroll class="nav-link" href="#testimonial"
+              >JUGADORAS</a
+            >
+          </li>
+          
+          <li class="nav-item">
+            <a data-scroll class="nav-link" href="#experience"
+              >PARTITS</a
+            >
+          </li>
+          
+        </ul>
+      </div>
+    </nav>
+  </div>
+</header>
+
+
+	
+	
+<section class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down">
+  <div class="rad-showcase__bg">
+    <img
+      class="lozad img-responsive"
+      src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+      data-src="https://raditian-hugo.radity.com/img/who-am-i/logo.png"
+      data-srcset="https://raditian-hugo.radity.com/img/who-am-i/logo.png 1x, https://raditian-hugo.radity.com/img/who-am-i/logo@2x.png 2x"
+      alt=""
+    />
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-sm-12 col-md-8 col-lg-7 col-xl-6">
+        <h1 class="display-1">
+           Benvinguts a 
+          <br />
+          <span
+            >la Secció Juvenil del Handbol Llavaneres!</span
+          >
+        </h1>
+        <p class="lead">
+          Amb una història impressionant, som els campions de la Copa Catalunya i orgullosos cinquens en la lliga passada. Amb una passió renovada, encarem aquesta temporada amb la determinació de conquerir noves cimes. Fa dos anys, les nostres joves promeses es van convertir en campiones de Catalunya, demostrant el nostre compromís amb l'excel·lència.
+Aquest any, som més forts i més centrats que mai. Acompanyeu-nos mentre perseguim la glòria i creem moments inoblidables. Amb el vostre suport, tot és possible!
+Endavant cap a la victòria,
+
+        </p>
+        <a
+          href="https://raditian-hugo.radity.com/"
+          class="btn btn-primary"
+        >
+          <i class=""></i>
+          
+        </a>
+      </div>
+    </div>
+    <div class="row platform-links">
+      <div class="col-12">
+        
+      </div>
+    </div>
+  </div>
+  <div class="rad-showcase__bg rad-showcase__bg--mobile">
+    <img
+      class="lozad img-responsive"
+      src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+      data-src="https://raditian-hugo.radity.com/img/showcase/showcase-mobile.jpg"
+      alt=""
+    />
+  </div>
+</section>
+
+
+	
+	
+<section class="section rad-animation-group pb-0" id="about">
+  <div class="container rad-fade-down">
+    <div class="row d-flex flex-column-reverse flex-md-row">
+      <div class="about__profile-picture col-12 col-md-6">
+        <img
+          class="lozad img-responsive image-left-overflow"
+          src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+          data-src="https://raditian-hugo.radity.com/img/showcase/portada1.png"
+          data-srcset="https://raditian-hugo.radity.com/img/showcase/portada1.png 1x, https://raditian-hugo.radity.com/img/showcase/portada1@2x.png 2x"
+          alt="Profile Picture"
+        />
+      </div>
+      <div class="col-12 col-md-6 my-auto my-auto">
+        <h2> Qui  som?</h2>
+        <p class="lead">
+          <p class="lead">
+Som la secció juvenil del Club Handbol Llavaneres i representem una història única. Tot i que no compartim la història dels equips tradicionals, hem estat desafiant expectatives i competint en les posicions davanteres. Demostrem que la passió supera qualsevol manca de reconeixement. </p> <p class="lead"> Preparats per enfrontar desafiaments i competir pel lideratge , creiem en el nostre potencial i en el poder de la unió. Som la secció juvenil del Club Handbol Llavaneres, amb la convicció que la determinació pot vèncer qualsevol desafiament. </p>
+        </p>
+        <a
+          href="https://raditian-hugo.radity.com/"
+          target="_blank"
+          class="btn btn-primary"
+        >
+          <i class=""></i>
+          
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+	
+	
+<section id="testimonial" class="section rad-animation-group section--border-bottom">
+    <div class="container">
+        <h2 class="rad-fade-down">Les nostres jugadoras</h2>
+        <div class="row row--padded mb-0 rad-fade-down">
+            
+            <div class="col-12 col-md-4 mb-5 mb-md-0 testimonial">
+                <i class="icon-quote"></i>
+                <p>
+                    
+                </p>
+                <div class="testimonial__author">
+                    <img class="lozad testimonial__author-image"
+                         src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+                         data-src="https://raditian-hugo.radity.com/img/testimonials/pastrana.png"
+                         data-srcset="https://raditian-hugo.radity.com/img/testimonials/pastrana.png 1x, https://raditian-hugo.radity.com/img/testimonials/pastrana@2x.png 2x"
+                         alt="Marta Pastrana"/>
+                    <div class="testimonial__author-info">
+                        <h4>Marta Pastrana</h4>
+                        <span>Porteria</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-12 col-md-4 mb-5 mb-md-0 testimonial">
+                <i class="icon-quote"></i>
+                <p>
+                    
+                </p>
+                <div class="testimonial__author">
+                    <img class="lozad testimonial__author-image"
+                         src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+                         data-src="https://raditian-hugo.radity.com/img/testimonials/pujal.png"
+                         data-srcset="https://raditian-hugo.radity.com/img/testimonials/pujal.png 1x, https://raditian-hugo.radity.com/img/testimonials/pujal@2x.png 2x"
+                         alt="Aina Pujal"/>
+                    <div class="testimonial__author-info">
+                        <h4>Aina Pujal</h4>
+                        <span>Dorsal: 17</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-12 col-md-4 mb-5 mb-md-0 testimonial">
+                <i class="icon-quote"></i>
+                <p>
+                    
+                </p>
+                <div class="testimonial__author">
+                    <img class="lozad testimonial__author-image"
+                         src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+                         data-src="https://raditian-hugo.radity.com/img/testimonials/doda.png"
+                         data-srcset="https://raditian-hugo.radity.com/img/testimonials/doda.png 1x, https://raditian-hugo.radity.com/img/testimonials/doda@2x.jpg 2x"
+                         alt="Azimilza Olga"/>
+                    <div class="testimonial__author-info">
+                        <h4>Azimilza Olga</h4>
+                        <span>Porteria</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-12 col-md-4 mb-5 mb-md-0 testimonial">
+                <i class="icon-quote"></i>
+                <p>
+                    
+                </p>
+                <div class="testimonial__author">
+                    <img class="lozad testimonial__author-image"
+                         src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+                         data-src="https://raditian-hugo.radity.com/img/testimonials/carlota.png"
+                         data-srcset="https://raditian-hugo.radity.com/img/testimonials/carlota.png 1x, https://raditian-hugo.radity.com/img/testimonials/carlota@2x.png 2x"
+                         alt="Carlota Muñoz"/>
+                    <div class="testimonial__author-info">
+                        <h4>Carlota Muñoz</h4>
+                        <span>Dorsal: 18</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-12 col-md-4 mb-5 mb-md-0 testimonial">
+                <i class="icon-quote"></i>
+                <p>
+                    
+                </p>
+                <div class="testimonial__author">
+                    <img class="lozad testimonial__author-image"
+                         src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+                         data-src="https://raditian-hugo.radity.com/img/testimonials/laura.png"
+                         data-srcset="https://raditian-hugo.radity.com/img/testimonials/laura.png 1x, https://raditian-hugo.radity.com/img/testimonials/laura@2x.png 2x"
+                         alt="Laura Granados"/>
+                    <div class="testimonial__author-info">
+                        <h4>Laura Granados</h4>
+                        <span>Dorsal: 7</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-12 col-md-4 mb-5 mb-md-0 testimonial">
+                <i class="icon-quote"></i>
+                <p>
+                    
+                </p>
+                <div class="testimonial__author">
+                    <img class="lozad testimonial__author-image"
+                         src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+                         data-src="https://raditian-hugo.radity.com/img/testimonials/daya.png"
+                         data-srcset="https://raditian-hugo.radity.com/img/testimonials/daya.png 1x, https://raditian-hugo.radity.com/img/testimonials/daya@2x.png 2x"
+                         alt="Daya Fernández"/>
+                    <div class="testimonial__author-info">
+                        <h4>Daya Fernández</h4>
+                        <span>Dorsal: 10</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-12 col-md-4 mb-5 mb-md-0 testimonial">
+                <i class="icon-quote"></i>
+                <p>
+                    
+                </p>
+                <div class="testimonial__author">
+                    <img class="lozad testimonial__author-image"
+                         src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+                         data-src="https://raditian-hugo.radity.com/img/testimonials/maqueda.png"
+                         data-srcset="https://raditian-hugo.radity.com/img/testimonials/maqueda.png 1x, https://raditian-hugo.radity.com/img/testimonials/maqueda2x.png 2x"
+                         alt="Núria Maqueda"/>
+                    <div class="testimonial__author-info">
+                        <h4>Núria Maqueda</h4>
+                        <span>Dorsal: </span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-12 col-md-4 mb-5 mb-md-0 testimonial">
+                <i class="icon-quote"></i>
+                <p>
+                    
+                </p>
+                <div class="testimonial__author">
+                    <img class="lozad testimonial__author-image"
+                         src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+                         data-src="https://raditian-hugo.radity.com/img/testimonials/abril.png"
+                         data-srcset="https://raditian-hugo.radity.com/img/testimonials/abril.png 1x, https://raditian-hugo.radity.com/img/testimonials/abril@2x.png 2x"
+                         alt="Abril Font"/>
+                    <div class="testimonial__author-info">
+                        <h4>Abril Font</h4>
+                        <span>Dorsal: 8</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-12 col-md-4 mb-5 mb-md-0 testimonial">
+                <i class="icon-quote"></i>
+                <p>
+                    
+                </p>
+                <div class="testimonial__author">
+                    <img class="lozad testimonial__author-image"
+                         src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+                         data-src="https://raditian-hugo.radity.com/img/testimonials/irene.png"
+                         data-srcset="https://raditian-hugo.radity.com/img/testimonials/irene.png 1x, https://raditian-hugo.radity.com/img/testimonials/irene@2x.png 2x"
+                         alt="Irene Abós"/>
+                    <div class="testimonial__author-info">
+                        <h4>Irene Abós</h4>
+                        <span>Dorsal: 15</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-12 col-md-4 mb-5 mb-md-0 testimonial">
+                <i class="icon-quote"></i>
+                <p>
+                    
+                </p>
+                <div class="testimonial__author">
+                    <img class="lozad testimonial__author-image"
+                         src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+                         data-src="https://raditian-hugo.radity.com/img/testimonials/carla.png"
+                         data-srcset="https://raditian-hugo.radity.com/img/testimonials/carla.png 1x, https://raditian-hugo.radity.com/img/testimonials/carla@2x.png 2x"
+                         alt="Carla Lambea"/>
+                    <div class="testimonial__author-info">
+                        <h4>Carla Lambea</h4>
+                        <span>Dorsal: 2</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-12 col-md-4 mb-5 mb-md-0 testimonial">
+                <i class="icon-quote"></i>
+                <p>
+                    
+                </p>
+                <div class="testimonial__author">
+                    <img class="lozad testimonial__author-image"
+                         src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+                         data-src="https://raditian-hugo.radity.com/img/testimonials/linares.png"
+                         data-srcset="https://raditian-hugo.radity.com/img/testimonials/linares.png 1x, https://raditian-hugo.radity.com/img/testimonials/linares@2x.png 2x"
+                         alt="Marta Linares"/>
+                    <div class="testimonial__author-info">
+                        <h4>Marta Linares</h4>
+                        <span>Dorsal: 9</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-12 col-md-4 mb-5 mb-md-0 testimonial">
+                <i class="icon-quote"></i>
+                <p>
+                    
+                </p>
+                <div class="testimonial__author">
+                    <img class="lozad testimonial__author-image"
+                         src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+                         data-src="https://raditian-hugo.radity.com/img/testimonials/neus.png"
+                         data-srcset="https://raditian-hugo.radity.com/img/testimonials/neus.png 1x, https://raditian-hugo.radity.com/img/testimonials/neus@2x.png 2x"
+                         alt="Neus Castanyer"/>
+                    <div class="testimonial__author-info">
+                        <h4>Neus Castanyer</h4>
+                        <span>Dorsal: 15</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-12 col-md-4 mb-5 mb-md-0 testimonial">
+                <i class="icon-quote"></i>
+                <p>
+                    
+                </p>
+                <div class="testimonial__author">
+                    <img class="lozad testimonial__author-image"
+                         src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+                         data-src="https://raditian-hugo.radity.com/img/testimonials/lucia.png"
+                         data-srcset="https://raditian-hugo.radity.com/img/testimonials/lucia.png 1x, https://raditian-hugo.radity.com/img/testimonials/lucia@2x.png 2x"
+                         alt="Lucia Ortra"/>
+                    <div class="testimonial__author-info">
+                        <h4>Lucia Ortra</h4>
+                        <span>Dorsal: 24</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-12 col-md-4 mb-5 mb-md-0 testimonial">
+                <i class="icon-quote"></i>
+                <p>
+                    
+                </p>
+                <div class="testimonial__author">
+                    <img class="lozad testimonial__author-image"
+                         src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+                         data-src="https://raditian-hugo.radity.com/img/testimonials/ariadna.png"
+                         data-srcset="https://raditian-hugo.radity.com/img/testimonials/ariadna.png 1x, https://raditian-hugo.radity.com/img/testimonials/ariadna@2x.png 2x"
+                         alt="Ariadna Perez"/>
+                    <div class="testimonial__author-info">
+                        <h4>Ariadna Perez</h4>
+                        <span>Dorsal: </span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-12 col-md-4 mb-5 mb-md-0 testimonial">
+                <i class="icon-quote"></i>
+                <p>
+                    
+                </p>
+                <div class="testimonial__author">
+                    <img class="lozad testimonial__author-image"
+                         src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+                         data-src="https://raditian-hugo.radity.com/img/testimonials/serrano.png"
+                         data-srcset="https://raditian-hugo.radity.com/img/testimonials/serrano.png 1x, https://raditian-hugo.radity.com/img/testimonials/serrano@2x.png 2x"
+                         alt="Aina Serrano"/>
+                    <div class="testimonial__author-info">
+                        <h4>Aina Serrano</h4>
+                        <span>Dorsal: </span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-12 col-md-4 mb-5 mb-md-0 testimonial">
+                <i class="icon-quote"></i>
+                <p>
+                    
+                </p>
+                <div class="testimonial__author">
+                    <img class="lozad testimonial__author-image"
+                         src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+                         data-src="https://raditian-hugo.radity.com/img/testimonials/silueta.png"
+                         data-srcset="https://raditian-hugo.radity.com/img/testimonials/silueta.png 1x, https://raditian-hugo.radity.com/img/testimonials/silueta@2x.png 2x"
+                         alt="Martina Sarasa"/>
+                    <div class="testimonial__author-info">
+                        <h4>Martina Sarasa</h4>
+                        <span>Dorsal: </span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-12 col-md-4 mb-5 mb-md-0 testimonial">
+                <i class="icon-quote"></i>
+                <p>
+                    
+                </p>
+                <div class="testimonial__author">
+                    <img class="lozad testimonial__author-image"
+                         src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+                         data-src="https://raditian-hugo.radity.com/img/testimonials/silueta.png"
+                         data-srcset="https://raditian-hugo.radity.com/img/testimonials/silueta.png 1x, https://raditian-hugo.radity.com/img/testimonials/silueta@2x.png 2x"
+                         alt="Queralt López"/>
+                    <div class="testimonial__author-info">
+                        <h4>Queralt López</h4>
+                        <span>Dorsal: </span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-12 col-md-4 mb-5 mb-md-0 testimonial">
+                <i class="icon-quote"></i>
+                <p>
+                    
+                </p>
+                <div class="testimonial__author">
+                    <img class="lozad testimonial__author-image"
+                         src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+                         data-src="https://raditian-hugo.radity.com/img/testimonials/silueta.png"
+                         data-srcset="https://raditian-hugo.radity.com/img/testimonials/silueta.png 1x, https://raditian-hugo.radity.com/img/testimonials/silueta@2x.png 2x"
+                         alt="Mireia Vidal"/>
+                    <div class="testimonial__author-info">
+                        <h4>Mireia Vidal</h4>
+                        <span>Dorsal: 34</span>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</section>
+
+
+	
+	
+<section class="section section--border-bottom rad-animation-group">
+    <div class="container">
+        <div class="row rad-fade-down">
+            <div class="col-12">
+                <h2>Seleccions Esportives</h2>
+                <div class="row pt-2 pt-md-4">
+                    
+                    <div class="col-12 col-sm-6 mb-4 mb-sm-0">
+                        <div class="education">
+                            <div class="education__date">2022-2023</div>
+                            <div class="education__title">Carlota Muñoz</div>
+                            <div class="education__degree">
+                                Selecció Catalana 
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-12 col-sm-6 mb-4 mb-sm-0">
+                        <div class="education">
+                            <div class="education__date">2022-2023</div>
+                            <div class="education__title">Núria Maqueda</div>
+                            <div class="education__degree">
+                                Selecció Catalana 
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-12 col-sm-6 mb-4 mb-sm-0">
+                        <div class="education">
+                            <div class="education__date">2022-2023</div>
+                            <div class="education__title">Daya Fernández</div>
+                            <div class="education__degree">
+                                Selecció Catalana 
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-12 col-sm-6 mb-4 mb-sm-0">
+                        <div class="education">
+                            <div class="education__date">2022-2023</div>
+                            <div class="education__title">Laura Granados</div>
+                            <div class="education__degree">
+                                Selecció Catalana 
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+	
+	
+<section id="experience" class="section section--border-bottom rad-animation-group">
+    <div class="container">
+        <div class="row flex-column-reverse flex-md-row rad-fade-down">
+            <div class="col-12 col-sm-6 mt-5 mt-sm-0">
+                
+                <div class="experience">
+                    <div class="experience__date">Sept 2023</div>
+                    <div class="experience__title">JÚNIOR REPORT LLAVANERES MARESME - HANDBOL SANT JOAN DESPÍ A</div>
+                    <div class="experience__company">Pendent horari</div>
+                </div>
+                
+                <div class="experience">
+                    <div class="experience__date">Sept 2023</div>
+                    <div class="experience__title">KH-7 BM. GRANOLLERS - JÚNIOR REPORT LLAVANERES MARESME</div>
+                    <div class="experience__company">Pendent horari</div>
+                </div>
+                
+                <div class="experience">
+                    <div class="experience__date">Oct 2023</div>
+                    <div class="experience__title">JÚNIOR REPORT LLAVANERES MARESME - HANDBOL GAVÀ</div>
+                    <div class="experience__company">Pendent horari</div>
+                </div>
+                
+            </div>
+            <div class="col-12 col-sm-6">
+                <h2>Partits</h2>
+                <p class="lead">
+                    Volem compartir amb vosaltres els emocionants partits que tenim al davant. Cada enfrontament és una nova oportunitat per mostrar la nostra dedicació i passió pel joc. En aquesta secció, trobareu els detalls dels pròxims partits, dates i rivals 
+                </p>
+                <a href="https://www.rfebm.com/competiciones/competicion.php?seleccion=0&amp;id=1018430&amp;jornada=1&amp;id_ambito=0" class="btn btn-primary"
+                   target="_blank">
+                    <i class="icon-profile-fill"></i>
+                    Federació Catalana
+                    <i class="icon-arrow-right"></i></a>
+                <a href="https://raditian-hugo.radity.com/" class="btn btn-frameless"
+                   target="_blank">
+                    <i class=""></i>
+                    
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+
+	<footer class="footer">
+  <div class="container">
+    <div class="footer__left">
+      <div class="footer__copy">
+        Secció Juvenil Handbol Llavaneres
+      </div>
+    </div>
+    <div class="footer__links">
+      <ul class="navbar-nav ">
+        <li class="nav-item">
+          <a class="nav-link" href="/">HOME</a>
+        </li>
+        
+      </ul>
+    </div>
+    <div class="footer__right">
+      <a href="https://radity.com/"
+        ><img
+          src="https://raditian-hugo.radity.com/img/testimonials/handbol_team.png"
+          srcset="https://raditian-hugo.radity.com/img/testimonials/handbol_team.png 1x, https://raditian-hugo.radity.com/img/testimonials/handbol_team.png 2x"
+          alt="Design &amp; Code - Radity"
+      /></a>
+    </div>
+  </div>
+</footer>
+
+    <script src='https://raditian-hugo.radity.com/js/rad-animations.js'></script>
+<script src='https://raditian-hugo.radity.com/js/library/lozad.min.js'></script>
+<script>
+  window.addEventListener("load", function() {
+    var observer = window.lozad(".lozad", {
+      rootMargin: window.innerHeight / 2 + "px 0px",
+      threshold: 0.01
+    }); 
+    observer.observe();
+  });
+</script>
+<script src='https://raditian-hugo.radity.com/js/library/jquery-3.3.1.slim.min.js'></script>
+<script src='https://raditian-hugo.radity.com/js/library/bootstrap.min.js'></script>
+<script src='https://raditian-hugo.radity.com/js/sticky-header.js'></script>
+<script src='https://raditian-hugo.radity.com/js/library/smooth-scroll.polyfills.min.js'></script>
+<script src='https://raditian-hugo.radity.com/js/library/fontfaceobserver.js'></script>
+<script>
+  (function(w) {
+    
+    if (w.document.documentElement.className.indexOf("fonts-loaded") > -1) {
+      return;
+    }
+    var fontA = new w.FontFaceObserver("Inter", {
+      weight: 300
+    });
+    var fontB = new w.FontFaceObserver("Inter", {
+      weight: 400
+    });
+    var fontC = new w.FontFaceObserver("Inter", {
+      weight: 500
+    });
+    var fontD = new w.FontFaceObserver("Inter", {
+      weight: 600
+    });
+    var fontE = new w.FontFaceObserver("Inter", {
+      weight: 700
+    });
+    var fontF = new w.FontFaceObserver("Inter", {
+      weight: 900
+    });
+    w.Promise.all([fontA.load(), fontC.load(), fontF.load()]).then(function() {
+      w.document.documentElement.className += " fonts-loaded";
+    });
+  })(this);
+</script>
+<script>
+  const scroll = new SmoothScroll('a[href*="#"]');
+    $('a.nav-link').on('click', () => {
+      const navbar = $('.navbar-collapse');
+      if (navbar && navbar.hasClass('show')) {
+        $('.navbar-toggler').click();
+      }
+    })
+</script>
+
+</body>
+
+</html>
