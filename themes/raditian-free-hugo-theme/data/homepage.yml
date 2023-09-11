@@ -92,7 +92,7 @@ testimonial:
       catalan: true
       image:
         x: "img/testimonials/maqueda.png"
-        _2x: "img/testimonials/maqueda2x.png"
+        _2x: "img/testimonials/maqueda@2x.png"
     - name: "Abril Font"
       position: "Dorsal: 8"
       year: "Any 2006"
