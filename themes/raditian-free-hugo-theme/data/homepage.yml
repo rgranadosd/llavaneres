@@ -170,7 +170,7 @@ testimonial:
         _2x: "img/testimonials/silueta@2x.png"   
 # education
 education:
-  enable: true
+  enable: false
   title: "Seleccions Esportives"
   items:
     - university: "Carlota Muñoz"
