@@ -213,79 +213,7 @@ experience:
     - title: "JÚNIOR REPORT LLAVANERES MARESME - HANDBOL GAVÀ"
       company: "Pendent horari"
       duration: "Oct 2023"
-
-# Client & Work
-client_and_work:
-  title: "Clients & Works"
-  enable: false
-
-  clients:
-    - logo:
-        x: "img/clients/asgardia.png"
-        _2x: "img/clients/asgardia@2x.png"
-      alt: "Asgardia"
-
-    - logo:
-        x: "img/clients/earth-2.png"
-        _2x: "img/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
-
-    - logo:
-        x: "img/clients/goldline.png"
-        _2x: "img/clients/goldline@2x.png"
-      alt: "Goldline"
-
-    - logo:
-        x: "img/clients/kanba.png"
-        _2x: "img/clients/kanba@2x.png"
-      alt: "Kanba"
-
-    - logo:
-        x: "img/clients/zoo-tv.png"
-        _2x: "img/clients/zoo-tv@2x.png"
-      alt: "Zoo"
-
-    - logo:
-        x: "img/clients/ztos.png"
-        _2x: "img/clients/ztos@2x.png"
-      alt: "Ztos"
-
-  works:
-    - title: "Radity Finance - UI Kit"
-      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
-      image:
-        x: "img/works/radity-finance.jpg"
-        _2x: "img/works/radity-finance@2x.jpg"
-      is_even: true
-
-    - title: "Swiss Fintech Website"
-      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
-      image:
-        x: "img/works/swissfintech.jpg"
-        _2x: "img/works/swissfintech@2x.jpg"
-      is_even: false
-
-    - title: "Robo Advisor"
-      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
-      image:
-        x: "img/works/robo-advisor.jpg"
-        _2x: "img/works/robo-advisor@2x.jpg"
-      is_even: true
-
-
-
+  
 # contact
 contact:
   enable: false
@@ -307,7 +235,20 @@ contact:
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
+# Client & Work
+client_and_work:
+  title: "Notícies"
+  enable: true
+  works:
+    - title: "Daya Fernández i Carlota Muñoz a la selecció Catalana"
+      description: "Ens complau anunciar que dues de les nostres jugadores, Daya Fernandez i Carlota Muñoz, han estat convocades per unir-se als entrenaments de la Selecció Catalana Juvenil Femenina. Totes dues entrenaran els dies 10 i 11 de setembre a Sant Vicenç i Sabadell.   Desitgem molta sort a Daya i Carlota en els seus entrenaments i estem impacients per veure com representaran la Selecció Catalana."
+      URL: "#"
+      image:
+        x: "img/works/convo1.png"
+        _2x: "img/works/convo1@2x.png"
+      is_even: true
 
+   
 # newsletter
 newsletter:
   enable: false
@@ -315,3 +256,4 @@ newsletter:
   success_message: "Successfully subscribed"
   error_message: "Error while subscribing."
   note: "We'll never share your email with anyone else."
+

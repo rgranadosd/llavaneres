@@ -36,9 +36,14 @@ theme = "raditian-free-hugo-theme"
   weight = 3
 
   [[menu.header]]
+  name = "Notícies"
+  URL = "#portfolio"
+  weight = 4
+
+  [[menu.header]]
   name = "Partits"
   URL = "#experience"
-  weight = 4
+  weight = 5
 
 [params]
 
