@@ -59,7 +59,7 @@ testimonial:
       year: "Any 2006"
       image:
         x: "img/testimonials/doda.png"
-        _2x: "img/testimonials/doda@2x.jpg"
+        _2x: "img/testimonials/doda@2x.png"
 
     - name: "Carlota Muñoz"
       position: "Dorsal: 18"
