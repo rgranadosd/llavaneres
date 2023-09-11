@@ -55,7 +55,7 @@ testimonial:
         _2x: "img/testimonials/pujal@2x.png"
 
     - name: "Azimilza Olga"
-      position: "Porteria"
+      position: "Dorsal: 23"
       year: "Any 2006"
       image:
         x: "img/testimonials/doda.png"
@@ -142,7 +142,7 @@ testimonial:
         _2x: "img/testimonials/ariadna@2x.png"
 
     - name: "Aina Serrano"
-      position: "Dorsal: "
+      position: "Dorsal: 20"
       year: "Any 2006"
       image:
         x: "img/testimonials/serrano.png"
