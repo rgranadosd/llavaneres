@@ -40,7 +40,8 @@ testimonial:
   title: "Les nostres jugadoras"
   items:
     - name: "Marta Pastrana"
-      position: "Porteria"
+      position: "Dorsal: 1"
+      year: "Any 2006"
       icon: "icon-smile-fill"
       image:
         x: "img/testimonials/pastrana.png"
@@ -48,29 +49,38 @@ testimonial:
 
     - name: "Aina Pujal"
       position: "Dorsal: 17"
+      year: "Any 2006"
       image:
         x: "img/testimonials/pujal.png"
         _2x: "img/testimonials/pujal@2x.png"
 
     - name: "Azimilza Olga"
       position: "Porteria"
+      year: "Any 2006"
       image:
         x: "img/testimonials/doda.png"
         _2x: "img/testimonials/doda@2x.jpg"
 
     - name: "Carlota Muñoz"
       position: "Dorsal: 18"
+      year: "Any 2006"
+      catalan: true
       image:
         x: "img/testimonials/carlota.png"
         _2x: "img/testimonials/carlota@2x.png"
+
     - name: "Laura Granados"
       position: "Dorsal: 7"
+      year: "Any 2007"
+      catalan: true
       image:
         x: "img/testimonials/laura.png"
         _2x: "img/testimonials/laura@2x.png"
 
     - name: "Daya Fernández"
       position: "Dorsal: 10"
+      year: "Any 2006"
+      catalan: true
       content: ""
       image:
         x: "img/testimonials/daya.png"
@@ -78,70 +88,83 @@ testimonial:
 
     - name: "Núria Maqueda"
       position: "Dorsal: "
+      year: "Any 2006"
+      catalan: true
       image:
         x: "img/testimonials/maqueda.png"
         _2x: "img/testimonials/maqueda2x.png"
     - name: "Abril Font"
       position: "Dorsal: 8"
+      year: "Any 2006"
       image:
         x: "img/testimonials/abril.png"
         _2x: "img/testimonials/abril@2x.png"
 
     - name: "Irene Abós"
       position: "Dorsal: 15"
+      year: "Any 2006"
       image:
         x: "img/testimonials/irene.png"
         _2x: "img/testimonials/irene@2x.png"
 
     - name: "Carla Lambea"
       position: "Dorsal: 2"
+      year: "Any 2006"
       image:
         x: "img/testimonials/carla.png"
         _2x: "img/testimonials/carla@2x.png"
     - name: "Marta Linares"
-      position: "Dorsal: 9"
+      position: "Dorsal: 6"
+      year: "Any 2006"
       image:
         x: "img/testimonials/linares.png"
         _2x: "img/testimonials/linares@2x.png"
 
     - name: "Neus Castanyer"
       position: "Dorsal: 15"
+      year: "Any 2006"
       image:
         x: "img/testimonials/neus.png"
         _2x: "img/testimonials/neus@2x.png"
 
 
-    - name: "Lucia Ortra"
+    - name: "Lucia Orta"
       position: "Dorsal: 24"
+      year: "Any 2007"
       image:
         x: "img/testimonials/lucia.png"
         _2x: "img/testimonials/lucia@2x.png"
     - name: "Ariadna Perez"
       position: "Dorsal: "
+      year: "Any 2006"
       image:
         x: "img/testimonials/ariadna.png"
         _2x: "img/testimonials/ariadna@2x.png"
 
     - name: "Aina Serrano"
       position: "Dorsal: "
+      year: "Any 2006"
       image:
         x: "img/testimonials/serrano.png"
         _2x: "img/testimonials/serrano@2x.png"
 
     - name: "Martina Sarasa"
       position: "Dorsal: "
+      year: "Any 2006"
       image:
         x: "img/testimonials/silueta.png"
         _2x: "img/testimonials/silueta@2x.png"
 
     - name: "Queralt López"
-      position: "Dorsal: "
+      position: "Dorsal: 9"
+      year: "Any 2006"
       image:
         x: "img/testimonials/silueta.png"
         _2x: "img/testimonials/silueta@2x.png"
 
     - name: "Mireia Vidal"
       position: "Dorsal: 34"
+      year: "Any 2006"
       image:
         x: "img/testimonials/silueta.png"
         _2x: "img/testimonials/silueta@2x.png"   

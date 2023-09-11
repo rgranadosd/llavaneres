@@ -16,8 +16,12 @@
                          data-srcset="{{ .image.x | absURL }} 1x, {{ .image._2x | absURL }} 2x"
                          alt="{{ .name }}"/>
                     <div class="testimonial__author-info">
-                        <h4>{{ .name }}</h4>
+                        <h3>{{ .name }}</h3>
                         <span>{{ .position }}</span>
+                        <span>{{ .year }}</span>
+                        {{ if .catalan }}
+                        <span><img class= "sele-cat" src="img/general/sele-cat.png" ></span>
+                        {{ end }}
                     </div>
                 </div>
             </div>
