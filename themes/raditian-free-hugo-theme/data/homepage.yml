@@ -14,7 +14,7 @@ Endavant cap a la victòria,
     x: "img/who-am-i/logo.png"
     _2x: "img/who-am-i/logo@2x.png"
   imageMobile:
-    x: "img/showcase/showcase-mobile.jpg"
+    x: "img/who-am-i/logo.png"
 
 
 # about
