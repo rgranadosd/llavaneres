@@ -39,14 +39,6 @@ testimonial:
   enable: true
   title: "Les nostres jugadoras"
   items:
-    - name: "Marta Pastrana"
-      position: "Dorsal: 1"
-      year: "Any 2006"
-      icon: "icon-smile-fill"
-      image:
-        x: "img/testimonials/pastrana.png"
-        _2x: "img/testimonials/pastrana@2x.png"
-
     - name: "Aina Pujal"
       position: "Dorsal: 17"
       year: "Any 2006"
