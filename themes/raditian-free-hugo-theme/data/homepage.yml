@@ -232,6 +232,21 @@ client_and_work:
   title: "Notícies"
   enable: true
   works:
+    
+    - title: "Un Dia Inoblidable al Club Handbol Llavaneres 🏆"
+      description: "Avui, el 17 de setembre de 2023, ha estat un dia per recordar al Club Handbol Llavaneres! 🤾‍♂️🥇 Hem guanyat la final del torneig juvenil a Esplugues, davant del Granollers, en una emocionant batalla a la pista. 💪
+
+Al llarg del torneig, ens hem enfrontat a equips com San Vicenç, Palautordera i Oar Gracia, demostrant el nostre esperit d'equip en cada partit. 🏆
+
+Aquest èxit és fruit de l'esforç de tots els nostres jugadors i del suport constant dels nostres seguidors. 🙌💙 Gràcies per estar sempre al nostre costat!
+
+"
+      URL: "#"
+      image:
+        x: "img/works/esplugues.png"
+        _2x: "img/works/esplugues@2x.png"
+      is_even: true
+  
     - title: "Daya Fernández i Carlota Muñoz a la selecció Catalana"
       description: "Ens complau anunciar que dues de les nostres jugadores, Daya Fernandez i Carlota Muñoz, han estat convocades per unir-se als entrenaments de la Selecció Catalana Juvenil Femenina. Totes dues entrenaran els dies 10 i 11 de setembre a Sant Vicenç i Sabadell.   Desitgem molta sort a Daya i Carlota en els seus entrenaments i estem impacients per veure com representaran la Selecció Catalana."
       URL: "#"
