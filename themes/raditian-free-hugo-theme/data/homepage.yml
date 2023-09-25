@@ -194,9 +194,7 @@ experience:
     URL: "https://www.rfebm.com/competiciones/competicion.php?seleccion=0&id=1018430&jornada=1&id_ambito=0"
 
   items:
-    - title: "JUNIOR REPORT LLAVANERES MARESME - HANDBOL SANT JOAN DESPÍ A"
-      company: "Pavelló Municipal d'Esports de Llavaneres - 16:00h "
-      duration: "Dissabte 23-09-2023"
+
 
     - title: "KH-7 BM. GRANOLLERS - JÚNIOR REPORT LLAVANERES MARESME"
       company: "Pavelló Municipal El Parquet - 12:30h"
@@ -205,6 +203,10 @@ experience:
     - title: "JÚNIOR REPORT LLAVANERES MARESME - HANDBOL GAVÀ"
       company: "Pendent horari"
       duration: "Oct 2023"
+    
+    - title: "JUNIOR REPORT LLAVANERES MARESME - HANDBOL SANT JOAN DESPÍ A"
+      company: "Junior Report Llavaneres (30) vs  Sant Joan d'Espí (29)"
+      duration: "Dissabte 23-09-2023 - 16:00h"
   
 # contact
 contact:
@@ -232,7 +234,14 @@ client_and_work:
   title: "Notícies"
   enable: true
   works:
-    
+    - title: "Debut amb victòria molt ajustada "
+      description: "El passat dissabte dia 23 de setembre, el nostre equip va jugar un partit molt complicat contra el Sant Joan d'Espi. Va ser un partit en què sempre vam anar darrere en el marcador, amb moments en què arribàvem a estar 3 punts per sota. Tanmateix, en els últims instants del partit, les nostres jugadores van tirar de garra per finalment emportar-se el partit en l'últim moment, fent pujar el marcador a 30-29 en l'últim segon del partit. Felicitats per la victòria i a seguir millorant."
+      URL: "#"
+      image:
+        x: "img/works/santjoan.png"
+        _2x: "img/works/santjoan@2x.png"
+      is_even: true
+
     - title: "Un Dia Inoblidable al Club Handbol Llavaneres 🏆"
       description: "Avui, el 17 de setembre de 2023, ha estat un dia per recordar al Club Handbol Llavaneres! 🤾‍♂️🥇 Hem guanyat la final del torneig juvenil a Esplugues, davant del Granollers, en una emocionant batalla a la pista. 💪
 
