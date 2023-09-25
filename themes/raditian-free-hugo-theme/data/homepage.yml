@@ -249,8 +249,12 @@ Al llarg del torneig, ens hem enfrontat a equips com San Vicenç, Palautordera i
 
 Aquest èxit és fruit de l'esforç de totes les nostres jugadores i del suport constant dels nostres seguidors. 🙌💙 Gràcies per estar sempre al nostre costat!
 
-"
-      URL: "#"
+"  
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Veure video"
+        URL: "https://youtu.be/UqiU1M7J-0Y"
+
       image:
         x: "img/works/esplugues.png"
         _2x: "img/works/esplugues@2x.png"
