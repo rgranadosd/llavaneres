@@ -1,3 +1,7 @@
+head:
+  title: "Handbol Llavaneres - Secció Juvenil Femení"
+  enable: true
+
 # showcase
 showcase:
   enable: true
