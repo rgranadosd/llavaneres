@@ -89,7 +89,7 @@ testimonial:
         _2x: "img/testimonials/daya@2x.png"
         alt: "Daya Fernández"
     - name: "Núria Maqueda"
-      position: "Dorsal: "
+      position: "Dorsal: 56"
       year: "Any 2006"
       catalan: true
       image:
@@ -119,7 +119,7 @@ testimonial:
         _2x: "img/testimonials/carla@2x.png"
         alt: "Carla Lambea"
     - name: "Marta Linares"
-      position: "Dorsal: 6"
+      position: "Dorsal: 9"
       year: "Any 2006"
       image:
         x: "img/testimonials/linares.png"
@@ -144,7 +144,7 @@ testimonial:
         alt: "Lucia Orta"
 
     - name: "Ariadna Perez"
-      position: "Dorsal: "
+      position: "Dorsal: 20"
       year: "Any 2006"
       image:
         x: "img/testimonials/ariadna.png"
@@ -152,7 +152,7 @@ testimonial:
         alt : "Ariadna"
 
     - name: "Aina Serrano"
-      position: "Dorsal: 20"
+      position: "Dorsal: 5"
       year: "Any 2006"
       image:
         x: "img/testimonials/serrano.png"
@@ -160,7 +160,7 @@ testimonial:
         alt: "Aina"
 
     - name: "Martina Sarasa"
-      position: "Dorsal: "
+      position: "Dorsal: 99"
       year: "Any 2006"
       image:
         x: "img/testimonials/silueta.png"
@@ -168,7 +168,7 @@ testimonial:
         alt: "Martina Sarasa"
 
     - name: "Queralt López"
-      position: "Dorsal: 9"
+      position: "Dorsal: 6"
       year: "Any 2006"
       image:
         x: "img/testimonials/silueta.png"
@@ -223,8 +223,8 @@ experience:
       duration: "Diumenge 01-10-2023"
 
     - title: "JÚNIOR REPORT LLAVANERES MARESME - HANDBOL GAVÀ"
-      company: " Pavelló Municipal d'Argentona - 17:00h"
-      duration: "Dissabte 07-10-2023"
+      company: "Pendent horari"
+      duration: "Dissabte 07-10-2023 - 17:00h"
     
     - title: "JUNIOR REPORT LLAVANERES MARESME - HANDBOL SANT JOAN DESPÍ A"
       company: "Junior Report Llavaneres (30) vs  Sant Joan d'Espí (29)"
