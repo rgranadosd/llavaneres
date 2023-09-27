@@ -17,9 +17,10 @@ Endavant cap a la victòria,
   image:
     x: "img/who-am-i/logo.png"
     _2x: "img/who-am-i/logo@2x.png"
+    alt: "Logo Llavaneres"
   imageMobile:
     x: "img/who-am-i/logo.png"
-
+    alt: "logo Llavaneres"
 
 # about
 about:
@@ -37,6 +38,7 @@ about:
   image:
     x: "img/showcase/portada1.png"
     _2x: "img/showcase/portada1@2x.png"
+    alt: "equipp femení"
 
 # testimonial
 testimonial:
@@ -49,6 +51,7 @@ testimonial:
       image:
         x: "img/testimonials/pujal.png"
         _2x: "img/testimonials/pujal@2x.png"
+        alt: "Aina Pujal"
 
     - name: "Azimilza Olga"
       position: "Dorsal: 23"
@@ -56,6 +59,7 @@ testimonial:
       image:
         x: "img/testimonials/doda.png"
         _2x: "img/testimonials/doda@2x.png"
+        alt: "Azimilza Olga"
 
     - name: "Carlota Muñoz"
       position: "Dorsal: 18"
@@ -64,6 +68,7 @@ testimonial:
       image:
         x: "img/testimonials/carlota.png"
         _2x: "img/testimonials/carlota@2x.png"
+        alt: "Carlota Muñoz"
 
     - name: "Laura Granados"
       position: "Dorsal: 7"
@@ -72,6 +77,7 @@ testimonial:
       image:
         x: "img/testimonials/laura.png"
         _2x: "img/testimonials/laura@2x.png"
+        alt: "Laura Granados"
 
     - name: "Daya Fernández"
       position: "Dorsal: 10"
@@ -81,7 +87,7 @@ testimonial:
       image:
         x: "img/testimonials/daya.png"
         _2x: "img/testimonials/daya@2x.png"
-
+        alt: "Daya Fernández"
     - name: "Núria Maqueda"
       position: "Dorsal: "
       year: "Any 2006"
@@ -89,12 +95,14 @@ testimonial:
       image:
         x: "img/testimonials/maqueda.png"
         _2x: "img/testimonials/maqueda@2x.png"
+        alt: "Núria Maqueda"
     - name: "Abril Font"
       position: "Dorsal: 8"
       year: "Any 2006"
       image:
         x: "img/testimonials/abril.png"
         _2x: "img/testimonials/abril@2x.png"
+        alt: "Abril Font"
 
     - name: "Irene Abós"
       position: "Dorsal: 15"
@@ -102,19 +110,21 @@ testimonial:
       image:
         x: "img/testimonials/irene.png"
         _2x: "img/testimonials/irene@2x.png"
-
+        alt: "abós"
     - name: "Carla Lambea"
       position: "Dorsal: 2"
       year: "Any 2006"
       image:
         x: "img/testimonials/carla.png"
         _2x: "img/testimonials/carla@2x.png"
+        alt: "Carla Lambea"
     - name: "Marta Linares"
       position: "Dorsal: 6"
       year: "Any 2006"
       image:
         x: "img/testimonials/linares.png"
         _2x: "img/testimonials/linares@2x.png"
+        alt: "Marta Linares"
 
     - name: "Neus Castanyer"
       position: "Dorsal: 11"
@@ -122,6 +132,7 @@ testimonial:
       image:
         x: "img/testimonials/neus.png"
         _2x: "img/testimonials/neus@2x.png"
+        alt: "Neus Castanyer"
 
 
     - name: "Lucia Orta"
@@ -130,12 +141,15 @@ testimonial:
       image:
         x: "img/testimonials/lucia.png"
         _2x: "img/testimonials/lucia@2x.png"
+        alt: "Lucia Orta"
+
     - name: "Ariadna Perez"
       position: "Dorsal: "
       year: "Any 2006"
       image:
         x: "img/testimonials/ariadna.png"
         _2x: "img/testimonials/ariadna@2x.png"
+        alt : "Ariadna"
 
     - name: "Aina Serrano"
       position: "Dorsal: 20"
@@ -143,6 +157,7 @@ testimonial:
       image:
         x: "img/testimonials/serrano.png"
         _2x: "img/testimonials/serrano@2x.png"
+        alt: "Aina"
 
     - name: "Martina Sarasa"
       position: "Dorsal: "
@@ -150,6 +165,7 @@ testimonial:
       image:
         x: "img/testimonials/silueta.png"
         _2x: "img/testimonials/silueta@2x.png"
+        alt: "Martina Sarasa"
 
     - name: "Queralt López"
       position: "Dorsal: 9"
@@ -157,6 +173,7 @@ testimonial:
       image:
         x: "img/testimonials/silueta.png"
         _2x: "img/testimonials/silueta@2x.png"
+        alt: "Queralt"
 
     - name: "Mireia Vidal"
       position: "Dorsal: 34"
@@ -164,6 +181,7 @@ testimonial:
       image:
         x: "img/testimonials/silueta.png"
         _2x: "img/testimonials/silueta@2x.png"   
+        alt: "Mireia"
 # education
 education:
   enable: false
@@ -244,6 +262,7 @@ client_and_work:
       image:
         x: "img/works/santjoan.png"
         _2x: "img/works/santjoan@2x.png"
+        alt: "Llavaneres - St Joan d'Espi."
       is_even: true
 
     - title: "Un Dia Inoblidable al Club Handbol Llavaneres 🏆"
@@ -262,6 +281,7 @@ Aquest èxit és fruit de l'esforç de totes les nostres jugadores i del suport 
       image:
         x: "img/works/esplugues.png"
         _2x: "img/works/esplugues@2x.png"
+        alt: "Torneig esplugues - Campiones"
       is_even: true
   
     - title: "Daya Fernández i Carlota Muñoz a la selecció Catalana"
@@ -270,6 +290,7 @@ Aquest èxit és fruit de l'esforç de totes les nostres jugadores i del suport 
       image:
         x: "img/works/convo1.png"
         _2x: "img/works/convo1@2x.png"
+        alt: "Daya y Carlota a la Catalana"
       is_even: true
 
    
