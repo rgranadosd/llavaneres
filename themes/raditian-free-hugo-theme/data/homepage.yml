@@ -21,6 +21,12 @@ Endavant cap a la victòria,
   imageMobile:
     x: "img/who-am-i/logo.png"
     alt: "logo Llavaneres"
+  
+
+  button:
+    icon: "icon-instagram-line"
+    btnText: "Instagram"
+    URL: "https://www.instagram.com/hm.juvenilfemeni/"
 
 # about
 about:
