@@ -169,8 +169,8 @@ testimonial:
       position: "Dorsal: 99"
       year: "Any 2006"
       image:
-        x: "img/testimonials/silueta.png"
-        _2x: "img/testimonials/silueta@2x.png"
+        x: "img/testimonials/martina.png"
+        _2x: "img/testimonials/martina@2x.png"
         alt: "Martina Sarasa"
 
     - name: "Queralt López"
