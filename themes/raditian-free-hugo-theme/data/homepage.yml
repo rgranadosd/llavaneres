@@ -188,6 +188,7 @@ testimonial:
         x: "img/testimonials/mireia.png"
         _2x: "img/testimonials/mireia@2x.png"   
         alt: "Mireia"
+        
 # education
 education:
   enable: false
