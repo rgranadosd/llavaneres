@@ -185,8 +185,8 @@ testimonial:
       position: "Dorsal: 34"
       year: "Any 2006"
       image:
-        x: "img/testimonials/silueta.png"
-        _2x: "img/testimonials/silueta@2x.png"   
+        x: "img/testimonials/mireia.png"
+        _2x: "img/testimonials/mireia@2x.png"   
         alt: "Mireia"
 # education
 education:
