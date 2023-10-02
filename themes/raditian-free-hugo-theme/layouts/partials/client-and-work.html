@@ -35,7 +35,7 @@
         <p class="lead">
           {{ .description }}
         </p>
-        {{ if .URL }}
+        {{ if .button.URL }}
         <a href="{{ .button.URL | absURL }}" class="btn btn-primary"
           >{{ .button.btnText }}<i class="{{ .button.icon }}"></i
         ></a>
@@ -67,7 +67,7 @@
         <p class="lead">
           {{ .description }}
         </p>
-        {{ if .URL }}
+        {{ if .button.URL }}
         <a href="{{ .button.URL | absURL }}" class="btn btn-primary"
           >{{ .button.btnText }}<i class="{{ .button.icon }}"></i
         ></a>

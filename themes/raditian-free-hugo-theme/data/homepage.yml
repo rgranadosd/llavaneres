@@ -280,6 +280,10 @@ client_and_work:
 
     - title: ""
       description: "S’ha arribat als últims 10 minuts amb una màxima avantatge de 6 gols (16-22). Aleshores ha arribat la reacció de les locals, que han fet somiar a la seva afició amb una possible victòria. Però les blaves no han perdut els nervis i han marcat el decisiu 22-23, fent valer la superioritat que han demostrat durant els 60 minuts. El Junior Report Llavaneres Maresme es col·loca amb quatre punts a la Lliga, després de la victòria, també per la mínima contra el Sant Joan en la primera jornada (30-29)."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Fotos "
+        URL: "https://photos.app.goo.gl/BnzvJMZRAUjJDnDb8"
       image:
         x: "img/works/granollers3.png"
         _2x: "img/works/granollers3@2x.png"
