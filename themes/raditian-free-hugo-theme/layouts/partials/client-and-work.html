@@ -29,13 +29,17 @@
     >
       {{ if .is_even }}
       <div class="col-12 col-md-5 mt-4 mt-md-0 my-md-auto">
+        {{ if .title }}
         <h3>{{ .title }}</h3>
+        {{ end }}
         <p class="lead">
           {{ .description }}
         </p>
+        {{ if .URL }}
         <a href="{{ .button.URL | absURL }}" class="btn btn-primary"
           >{{ .button.btnText }}<i class="{{ .button.icon }}"></i
         ></a>
+        {{ end }}
       </div>
       <div class="col-12 col-md-7 pl-md-0 text-right">
         <img
@@ -57,13 +61,17 @@
         />
       </div>
       <div class="col-12 col-md-5 mt-4 mt-md-0 my-md-auto">
+        {{ if .title }}
         <h3>{{ .title }}</h3>
+        {{ end }}
         <p class="lead">
           {{ .description }}
         </p>
+        {{ if .URL }}
         <a href="{{ .button.URL | absURL }}" class="btn btn-primary"
           >{{ .button.btnText }}<i class="{{ .button.icon }}"></i
         ></a>
+        {{ end }}
       </div>
       {{ end }}
     </div>
