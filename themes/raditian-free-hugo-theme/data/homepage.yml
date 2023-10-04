@@ -54,6 +54,7 @@ testimonial:
     - name: "Aina Pujal"
       position: "Dorsal: 17"
       year: "Any 2006"
+      catalan: true
       image:
         x: "img/testimonials/pujal.png"
         _2x: "img/testimonials/pujal@2x.png"
@@ -168,6 +169,7 @@ testimonial:
     - name: "Martina Sarasa"
       position: "Dorsal: 99"
       year: "Any 2006"
+      catalan: true 
       image:
         x: "img/testimonials/martina.png"
         _2x: "img/testimonials/martina@2x.png"
@@ -188,7 +190,7 @@ testimonial:
         x: "img/testimonials/mireia.png"
         _2x: "img/testimonials/mireia@2x.png"   
         alt: "Mireia"
-        
+
 # education
 education:
   enable: false
