@@ -179,8 +179,8 @@ testimonial:
       position: "Dorsal: 6"
       year: "Any 2006"
       image:
-        x: "img/testimonials/silueta.png"
-        _2x: "img/testimonials/silueta@2x.png"
+        x: "img/testimonials/queralt.png"
+        _2x: "img/testimonials/queralt@2x.png"
         alt: "Queralt"
 
     - name: "Mireia Vidal"
