@@ -225,15 +225,13 @@ experience:
     URL: "https://www.rfebm.com/competiciones/competicion.php?seleccion=0&id=1018430&jornada=1&id_ambito=0"
 
   items:
-
-
-    - title: "JÚNIOR REPORT LLAVANERES MARESME - HANDBOL GAVÀ"
-      company: "Pavelló Municipal d'Esports - Camí Contrabandistes, 31"
-      duration: "Dissabte 07-10-2023 - 17:00h"
-
     - title: "JÚNIOR REPORT LLAVANERES MARESME - HANDBOL SANT VICENÇ"
       company: "Pavelló Municipal d'Esports - Camí Contrabandistes, 31"
-      duration: "Dimecres 11-10-2023 - 19:30h "
+      duration: "Dimecres 18-10-2023 - 19:30h "
+
+    - title: "JÚNIOR REPORT LLAVANERES MARESME - HANDBOL GAVÀ"
+      company: "Junior Report Llavaneres (38) vs  Handbol Gavà (17)"
+      duration: "Dissabte 07-10-2023 - 17:00h"
 
     - title: "KH-7 BM. GRANOLLERS - JÚNIOR REPORT LLAVANERES MARESME"
       company: "KH-7 BM. Granollers (29) vs Junior Report Llavaneres (30) "
@@ -269,6 +267,14 @@ client_and_work:
   title: "Notícies"
   enable: true
   works:
+    - title: "Crida de la selecció catalana juvenil a les nostres jugadoras"
+      description: "Cinc de les nostres jugadores han estat convocades per  al proper entrenament del dia 12  amb la Selecció Catalana Juvenil! Desitgem a Carlota, Laura, Aina, Daya i Martina una experiència enriquidora en aquest entrenament. Que el seu talent brilli durant la sessió i que continuïn recollint èxits en el seu viatge esportiu! "
+      image:
+        x: "img/works/catalana.png" 
+        _2x: "img/works/catalana@2x.png"
+        alt: "Convocatoria catalana 12 Octubre"
+      is_even: true
+
     - title: "El Junior Report Llavaneres Maresme dona la campanada a Granollers"
       description: "El Junior Report Llavaneres ha guanyat el seu primer duel de Lliga contra el Kh-7 Bm Granollers per la mínima (22-23). Tot i que el resultat final ha estat molt ajustat, les de Josep Maria Masip han dominat còmodament el marcador durant tot el partit, i només en els minuts finals, han vist com l’equip del Vallès retallava l’avantatge amb un parcial de 5-0, que les ha deixat només a un gol de l’igualada. Però ha estat massa tard. Les blaves, molt sòlides en defensa, no han donat cap opció al seu rival i fins i tot s’han permès el luxe de fallar l’última possessió. "
       image:
