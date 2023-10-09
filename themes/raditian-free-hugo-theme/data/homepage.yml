@@ -312,6 +312,11 @@ client_and_work:
 
     - title: "Debut amb victòria molt ajustada "
       description: "El passat dissabte dia 23 de setembre, el nostre equip va jugar un partit molt complicat contra el Sant Joan d'Espi. Va ser un partit en què sempre vam anar darrere en el marcador, amb moments en què arribàvem a estar 3 gols per sota. Tanmateix, en els últims instants del partit, les nostres jugadoras van tirar de garra per finalment emportar-se el partit, fent pujar al marcador el 30-29 en l'últim segon.  Felicitats per la victòria i a seguir millorant."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Veure video "
+        URL: "https://youtu.be/UqiU1M7J-0Y"
+             
       image:
         x: "img/works/santjoan.png"
         _2x: "img/works/santjoan@2x.png"
