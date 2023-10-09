@@ -270,8 +270,8 @@ client_and_work:
     - title: "Victòria front al Gavà"
       description: "Lorem Ipsum is"
       image:
-            x: "img/works/gava.jpg" 
-            _2x: "img/works/catalana@2x.jpg"
+            x: "img/works/gava1.jpg" 
+            _2x: "img/works/gava1@2x.jpg"
             alt: "Victòria vs Gavà"
       is_even: false
 
