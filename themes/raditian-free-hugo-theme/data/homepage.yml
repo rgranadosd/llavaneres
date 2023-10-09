@@ -267,6 +267,14 @@ client_and_work:
   title: "Notícies"
   enable: true
   works:
+    - title: "Victòria front al Gavà"
+      description: "Lorem Ipsum is"
+      image:
+            x: "img/works/gava.jpg" 
+            _2x: "img/works/catalana@2x.jpg"
+            alt: "Victòria vs Gavà"
+      is_even: false
+
     - title: "Crida de la selecció catalana juvenil a les nostres jugadoras"
       description: "Cinc de les nostres jugadores han estat convocades per  al proper entrenament del dia 12  amb la Selecció Catalana Juvenil! Desitgem a Carlota, Laura, Aina, Daya i Martina una experiència enriquidora en aquest entrenament. Que el seu talent brilli durant la sessió i que continuïn recollint èxits en el seu viatge esportiu! "
       image:
