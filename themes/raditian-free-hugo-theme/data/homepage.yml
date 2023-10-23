@@ -225,10 +225,12 @@ experience:
     URL: "https://www.rfebm.com/competiciones/competicion.php?seleccion=0&id=1018430&jornada=1&id_ambito=0"
 
   items:
-
+    - title: "HANDBOL SANT JOAN DESPI - JÚNIOR REPORT LLAVANERES MARESME"
+      company: "Poliesportiu Salvador Gimeno (Sant Joan Despí) "
+      duration: "Pendent de data "
 
     - title: "HANDBOL COOPERTATIVA ST BOI - JÚNIOR REPORT LLAVANERES MARESME"
-      company: "CEM PAU GASOL - Carrer Mestre LLuis Millet, 91 St Boi de LLobregat"
+      company: "Handbol Coopertativa St Boi (26) vs Junior Report Llavaneres (34)"
       duration: "Diumenge 22-10-2023 - 12:00h "
 
     - title: "JÚNIOR REPORT LLAVANERES MARESME - HANDBOL SANT VICENÇ"
@@ -273,6 +275,14 @@ client_and_work:
   title: "Notícies"
   enable: true
   works:
+    - title: "Intensitat al Camp de St Boi 🤾‍♂️ "
+      description: "Ahir, diumenge 22 d'octubre de 2023, a les 12:00h, l'equip Júnior Report Llavaneres Maresme va jugar un partit intens al camp del Handbol Cooperativa St Boi. Tot i els esforços, el resultat va ser Handbol Coopertativa St Boi (26) vs Junior Report Llavaneres (34). 💪 L'enfrontament va mostrar diverses fases que ens ajudaran a evolucionar com a equip. "
+      image:
+            x: "img/works/stboi.jpg" 
+            _2x: "img/works/stboi@2x.jpg"
+            alt: "St Boi"
+      is_even: true
+
     - title: "¡Victòria a Casa! 🏆🤾‍♂️ "
       description: "Dissabte passat, dia 7 d'octubre, vam jugar el nostre tercer partit oficial d'aquesta lligueta i vam aconseguir una victòria contundent de 38-17 davant del Handbol Gavà al nostre pavelló. 💪🔥 Agraïm als nostres jugadors per la seva dedicació i als aficionats que van omplir les grades amb la seva energia positiva. Seguim endavant amb determinació!"
       image:
