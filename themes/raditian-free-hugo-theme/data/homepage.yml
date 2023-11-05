@@ -275,6 +275,13 @@ client_and_work:
   title: "Notícies"
   enable: true
   works:
+    - title: "Empat en un duel molt competit a la pista de St Joan d'Espí"
+      description: "Aquesta setmana,el nostre equip va experimentar un emocionant enfrontament com a visitant a la pista del St. Joan d'espí, que va finalitzar amb un empat. Amb baixes significatives en ambdós costats, el partit va ser un desafiament constant. Malgrat les dificultats, l'empat destaca la igualtat de les forces en joc. El resultat pot no haver sigut el desitjat, però cada partit ens proporciona una oportunitat de millora. Seguim endavant! 🤾‍♂️💙"
+      image:
+            x: "img/works/stjoanvsllava.JPG" 
+            _2x: "img/works/stjoanvsllava@2x.JPG"
+            alt: "St Joan Despi"
+      is_even: false
     - title: "Intensitat al Camp de St Boi 🤾‍♂️ "
       description: "Ahir, diumenge 22 d'octubre de 2023, a les 12:00h, l'equip Júnior Report Llavaneres Maresme va jugar un partit intens al camp del Handbol Cooperativa St Boi. Tot i els esforços, el resultat va ser Handbol Coopertativa St Boi (26) vs Junior Report Llavaneres (34). 💪 L'enfrontament va mostrar diverses fases que ens ajudaran a evolucionar com a equip. "
       image:
