@@ -325,8 +325,8 @@ client_and_work:
       description: "S’ha arribat als últims 10 minuts amb una màxima avantatge de 6 gols (16-22). Aleshores ha arribat la reacció de les locals, que han fet somiar a la seva afició amb una possible victòria. Però les blaves no han perdut els nervis i han marcat el decisiu 22-23, fent valer la superioritat que han demostrat durant els 60 minuts. El Junior Report Llavaneres Maresme es col·loca amb quatre punts a la Lliga, després de la victòria, també per la mínima contra el Sant Joan en la primera jornada (30-29)."
       button:
         icon: "icon-arrow-right"
-        btnText: "Fotos "
-        URL: "https://photos.app.goo.gl/BnzvJMZRAUjJDnDb8"
+        btnText: "Veure video"
+        URL: "https://www.youtube.com/watch?v=PUUBoU9-uT4&fmt=18"
       image:
         x: "img/works/granollers3.png"
         _2x: "img/works/granollers3@2x.png"
@@ -337,7 +337,7 @@ client_and_work:
       description: "El passat dissabte dia 23 de setembre, el nostre equip va jugar un partit molt complicat contra el Sant Joan d'Espi. Va ser un partit en què sempre vam anar darrere en el marcador, amb moments en què arribàvem a estar 3 gols per sota. Tanmateix, en els últims instants del partit, les nostres jugadoras van tirar de garra per finalment emportar-se el partit, fent pujar al marcador el 30-29 en l'últim segon.  Felicitats per la victòria i a seguir millorant."
       button:
         icon: "icon-arrow-right"
-        btnText: "Veure video "
+        btnText: "Veure video"
         URL: "https://youtu.be/VnyQdhxx6XM"
              
       image:
