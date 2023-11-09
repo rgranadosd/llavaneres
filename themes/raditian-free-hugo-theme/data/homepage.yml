@@ -277,6 +277,11 @@ client_and_work:
   works:
     - title: "Empat en un duel molt competit a la pista de St Joan d'Espí"
       description: "Aquesta setmana,el nostre equip va experimentar un emocionant enfrontament com a visitant a la pista del St. Joan d'espí, que va finalitzar amb un empat. Amb baixes significatives en ambdós costats, el partit va ser un desafiament constant. Malgrat les dificultats, l'empat destaca la igualtat de les forces en joc. El resultat pot no haver sigut el desitjat, però cada partit ens proporciona una oportunitat de millora. Seguim endavant! 🤾‍♂️💙"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Veure video"
+        URL: "https://youtu.be/-juH_X41n6A&fmt=18"
+
       image:
             x: "img/works/stjoanvsllava.JPG" 
             _2x: "img/works/stjoanvsllava@2x.JPG"
