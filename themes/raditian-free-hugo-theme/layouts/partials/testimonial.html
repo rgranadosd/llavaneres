@@ -20,8 +20,13 @@
                         <span>{{ .position }}</span>
                         <span>{{ .year }}</span>
                         {{ if .catalan }}
-                        <span><img class= "sele-cat" src="img/general/sele-cat.png" alt="catalonian flag"></span>
+                        <span><img class= "sele-cat" src="img/general/sele-cat.png" alt="catalonian flag">
+                        {{ if .spanish }}
+                        <img class= "sele-esp" src="img/general/sele-esp.png" alt="spanish flag">
                         {{ end }}
+                        </span>
+                        {{ end }}
+
                     </div>
                 </div>
             </div>
