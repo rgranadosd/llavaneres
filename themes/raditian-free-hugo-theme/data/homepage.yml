@@ -275,6 +275,14 @@ client_and_work:
   title: "Notícies"
   enable: true
   works:
+    - title: "Triomf Èpic: Liderem la Lliga després de derrotar al BM. Granollers"
+      description: "El passat dissabte 11 de novembre, el Pavelló Municipal de Llavaneres va ser l'escenari d'un partit èpic entre el nostre equip i el BM Granollers. Un inici molt complicat que ens va portar a la mitja part amb un desavantatge d'11-15. Tot i això, les nostres a la segona meitat mitjançant un molt bon treball defensiu van conseguir igualar el matx al minut 12 de la represa , i en els últims moments, vam emportar-nos la victòria amb un ajustat 25-24 al marcador. Cal destacar la mentalitat guanyadora del nostre equip.  Amb aquesta victòria, ara liderem la competició amb un marge de 3 punts sobre el nostre més immediat perseguidor.   Esperem mantenir aquesta dinàmica positiva al llarg de la temporada."
+      image: 
+            x: "img/works/llavaneresvsgranollers.png"
+            _2x: "img/works/llavaneresvsgranollers@2x.png"
+            alt: "Llavaneres vs Granollers"
+      is_even: true
+      
     - title: "Empat en un duel molt competit a la pista de St Joan d'Espí"
       description: "Aquesta setmana,el nostre equip va experimentar un emocionant enfrontament com a visitant a la pista del St. Joan d'espí, que va finalitzar amb un empat. Amb baixes significatives en ambdós costats, el partit va ser un desafiament constant. Malgrat les dificultats, l'empat destaca la igualtat de les forces en joc. El resultat pot no haver sigut el desitjat, però cada partit ens proporciona una oportunitat de millora. Seguim endavant! 🤾‍♂️💙"
       button:
