@@ -284,6 +284,14 @@ client_and_work:
   title: "Notícies"
   enable: true
   works:
+    - title: "Handbol Llavaneres Imparable contra Gavà"
+      description: " El passat dissabte, l'Handbol Llavaneres va destacar en el seu enfrontament contra el Gavà amb una còmoda victòria de 18-40. El nostre equip va demostrar una vegada més la seva força i determinació. Abans de començar, les nostres jugadores van tenir un gest molt bonic amb la seva capitana que es va lesionar setmanes enrere portant una samarreta amb el seu nom i dorsal. Va ser un moment emotiu que va crear un ambient molt especial, ànims Carlota!."
+      image:
+        x: "img/works/gava2.png"
+        _2x: "img/works/gava2@2x.png"
+        alt: "Visita a Gavà"
+      is_even: false
+    
     - title: "Triomf Èpic: Liderem la Lliga després de derrotar al BM. Granollers"
       description: "El passat dissabte 11 de novembre, el Pavelló Municipal de Llavaneres va ser l'escenari d'un partit èpic entre el nostre equip i el BM Granollers. Un inici molt complicat que ens va portar a la mitja part amb un desavantatge d'11-15. Tot i això, les nostres a la segona meitat mitjançant un molt bon treball defensiu van conseguir igualar el matx al minut 12 de la represa , i en els últims moments, vam emportar-nos la victòria amb un ajustat 25-24 al marcador. Cal destacar la mentalitat guanyadora del nostre equip.  Amb aquesta victòria, ara liderem la competició amb un marge de 3 punts sobre el nostre més immediat perseguidor.   Esperem mantenir aquesta dinàmica positiva al llarg de la temporada."
       image: 
