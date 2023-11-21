@@ -285,7 +285,7 @@ client_and_work:
   enable: true
   works:
     - title: "Handbol Llavaneres Imparable contra Gavà"
-      description: " El passat dissabte, l'Handbol Llavaneres va destacar en el seu enfrontament contra el Gavà amb una còmoda victòria de 18-40. El nostre equip va demostrar una vegada més la seva força i determinació. Abans de començar, les nostres jugadores van tenir un gest molt bonic amb la seva capitana que es va lesionar setmanes enrere portant una samarreta amb el seu nom i dorsal. Va ser un moment emotiu que va crear un ambient molt especial, ànims Carlota!."
+      description: " El passat dissabte, l'Handbol Llavaneres va destacar en el seu enfrontament contra el Gavà amb una còmoda victòria de 18-40. El nostre equip va demostrar una vegada més la seva força i determinació. Abans de començar, les nostres jugadores van tenir un gest molt bonic amb la seva capitana que es va lesionar setmanes enrere portant una samarreta amb el seu nom i dorsal. Va ser un moment emotiu que va crear un ambient molt especial, Força Capi!."
       image:
         x: "img/works/gava2.png"
         _2x: "img/works/gava2@2x.png"
