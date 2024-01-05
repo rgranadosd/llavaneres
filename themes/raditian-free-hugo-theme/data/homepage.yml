@@ -288,6 +288,13 @@ client_and_work:
   title: "Notícies"
   enable: true
   works:
+    - title: "Tanquem l'any amb victòria"
+      description: "L'últim partit de l'any de l'Handbol Llavaneres no va ser tan brillant com esperàvem, malgrat la victòria de 29 a 23 contra l'Handbol Sant Boi. Vam optar per fer nombroses proves, i tot i que el resultat va ser a favor nostre, el joc no va assolir les expectatives. Després de la desafortunada derrota del cap de setmana anterior, aquesta victòria ha tingut com a objectiu principal restaurar la moral de l'equip. Arribem al final de la primera fase de la lliga com a líders. A l'espera del sorteig per a la pròxima ronda. És evident que hi ha feina per fer i àrees a millorar, però aquesta victòria ens dona la confiança necessària per afrontar els reptes que vindran."
+      image: 
+        x: "img/works/stboi2.png"
+        _2x: "img/works/stboi2@2x.png"
+        alt: "Primera ronda  llavaneres vs st boi"
+        
     - title: "Handbol Llavaneres Imparable contra Gavà"
       description: " El passat dissabte, l'Handbol Llavaneres va destacar en el seu enfrontament contra el Gavà amb una còmoda victòria de 18-40. El nostre equip va demostrar una vegada més la seva força i determinació. Abans de començar, les nostres jugadores van tenir un gest molt bonic amb la seva capitana que es va lesionar setmanes enrere portant una samarreta amb el seu nom i dorsal. Va ser un moment emotiu que va crear un ambient molt especial, Força Capi!."
       button:
