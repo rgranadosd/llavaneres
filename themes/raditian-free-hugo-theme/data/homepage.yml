@@ -223,7 +223,7 @@ experience:
   button:
     icon: "icon-profile-fill"
     btnText: "Federació Catalana"
-    URL: "https://www.rfebm.com/competiciones/competicion.php?seleccion=0&id=1018430&jornada=1&id_ambito=0"
+    URL: "https://www.rfebm.com/competiciones/competicion.php?seleccion=0&id_categoria=200011&id_competicion=205415&id=1020814&id_temp=2324&id_territorial=17&id_ambito=0"
 
   items:
     - title: "HANDBOL SANT VICENÇ - JÚNIOR REPORT LLAVANERES MARESME  "
