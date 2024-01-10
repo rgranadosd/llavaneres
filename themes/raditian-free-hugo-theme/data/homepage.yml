@@ -226,42 +226,9 @@ experience:
     URL: "https://www.rfebm.com/competiciones/competicion.php?seleccion=0&id_categoria=200011&id_competicion=205415&id=1020814&id_temp=2324&id_territorial=17&id_ambito=0"
 
   items:
-    - title: "HANDBOL SANT VICENÇ - JÚNIOR REPORT LLAVANERES MARESME  "
-      company: "Poliesportiu Municipal St.Josep, 08620 St Vivenç" 
-      duration: "Diumenge  03-12-2023 - 11:10h "
-
-    - title: "HANDBOL GAVÀ - JÚNIOR REPORT LLAVANERES MARESME  "
-      company: "HANDBOL GAVÀ (18) vs JÚNIOR REPORT LLAVANERES MARESME (40) "
-      duration: "Dissabte  18-11-2023 - 19:45h "
-
-    - title: "JÚNIOR REPORT LLAVANERES MARESME - BM GRANOLLERS - "
-      company: "JÚNIOR REPORT LLAVANERES MARESME(25) vs BM GRANOLLERS (24) "
-      duration: "Dissabte  11-11-2023 - 20:00h "
-
     - title: "HANDBOL SANT JOAN DESPI - JÚNIOR REPORT LLAVANERES MARESME"
-      company: "HANDBOL SANT JOAN DESPI(30) vs JÚNIOR REPORT LLAVANERES MARESME (30) "
-      duration: "Dissabte  04-11-2023 - 20:00h "
-
-    - title: "HANDBOL COOPERTATIVA ST BOI - JÚNIOR REPORT LLAVANERES MARESME"
-      company: "Handbol Coopertativa St Boi (26) vs Junior Report Llavaneres (34)"
-      duration: "Diumenge 22-10-2023 - 12:00h "
-
-    - title: "JÚNIOR REPORT LLAVANERES MARESME - HANDBOL SANT VICENÇ"
-      company: "Junior Report Llavaneres (31) vs Handbol Sant Vicenç (30)"
-      duration: "Dimecres 18-10-2023 - 19:30h "
-
-    - title: "JÚNIOR REPORT LLAVANERES MARESME - HANDBOL GAVÀ"
-      company: "Junior Report Llavaneres (38) vs Handbol Gavà (17)"
-      duration: "Dissabte  07-10-2023 - 17:00h "
-
-    - title: "KH-7 BM. GRANOLLERS - JÚNIOR REPORT LLAVANERES MARESME"
-      company: "KH-7 BM. Granollers (29) vs Junior Report Llavaneres (30) "
-      duration: "Diumenge 01-10-2023 - 12:30h"
-    
-    - title: "JUNIOR REPORT LLAVANERES MARESME - HANDBOL SANT JOAN DESPÍ A"
-      company: "Junior Report Llavaneres (30) vs  Sant Joan d'Espí (29)"
-      duration: "Dissabte 23-09-2023 - 16:00h"
-  
+      company: "POLIESPORTIU SALVADOR GIMENO - Carrer Major, 75, 08970 Sant Joan Despí"
+      duration: "Dissabte  13-01-2023 - 16:00h "  
 # contact
 contact:
   enable: false
