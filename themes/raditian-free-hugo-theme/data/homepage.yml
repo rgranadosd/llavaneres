@@ -294,7 +294,15 @@ client_and_work:
         x: "img/works/stboi2.png"
         _2x: "img/works/stboi2@2x.png"
         alt: "Primera ronda  llavaneres vs st boi"
-        
+
+    - title: "Líders Malgrat Derrota "
+      description: "La primera derrota de la temporada va arribar al pavelló de St. Vicenç. Va ser evident que ens havien estudiat a la perfecció; no ens van donar cap oportunitat per remuntar el partit. L'equip local va mostrar una comprensió exhaustiva del nostre joc, deixant-nos sense opcions. El marcador final, amb un inequívoc 30-21, posa de manifest la superioritat del St. Vicenç en aquesta trobada. No obstant això, malgrat aquesta derrota, mantenim la nostra posició com a líders de la classificació. Estem confiats que aquest revés no afectarà el gran rendiment que hem mantingut fins ara; més aviat, veiem aquesta experiència com una oportunitat d'aprendre dels errors comesos. Amb humilitat, continuarem treballant amb determinació per corregir-nos i tornar amb una força renovada en els següents enfrontaments."
+      image: 
+        x: "img/works/stvicens2.jpg"
+        _2x: "img/works/stvicens2@2x.jpg"
+        alt: "St Vicenç vs Llavaneres"
+      is_even: true
+
     - title: "Handbol Llavaneres Imparable contra Gavà"
       description: " El passat dissabte, l'Handbol Llavaneres va destacar en el seu enfrontament contra el Gavà amb una còmoda victòria de 18-40. El nostre equip va demostrar una vegada més la seva força i determinació. Abans de començar, les nostres jugadores van tenir un gest molt bonic amb la seva capitana que es va lesionar setmanes enrere portant una samarreta amb el seu nom i dorsal. Va ser un moment emotiu que va crear un ambient molt especial, Força Capi!."
       button:
