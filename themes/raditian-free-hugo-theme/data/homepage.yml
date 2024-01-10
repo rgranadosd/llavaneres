@@ -297,6 +297,10 @@ client_and_work:
 
     - title: "Líders Malgrat Derrota "
       description: "La primera derrota de la temporada va arribar al pavelló de St. Vicenç. Va ser evident que ens havien estudiat a la perfecció; no ens van donar cap oportunitat per remuntar el partit. L'equip local va mostrar una comprensió exhaustiva del nostre joc, deixant-nos sense opcions. El marcador final, amb un inequívoc 30-21, posa de manifest la superioritat del St. Vicenç en aquesta trobada. No obstant això, malgrat aquesta derrota, mantenim la nostra posició com a líders de la classificació."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Veure video"
+        URL: "https://youtu.be/Oso8N4qIo8c"
       image: 
         x: "img/works/stvicens2.jpg"
         _2x: "img/works/stvicens2@2x.jpg"
