@@ -255,8 +255,17 @@ client_and_work:
   title: "Notícies"
   enable: true
   works:
+    - title: "Homenatge a la nostra Doda"
+      description: "Després de la dura derrota contra el St Joan Despí fa dues setmanes, hem aconseguit donar la volta a la situació amb dues victòries consecutives. Primer, vam guanyar a casa contra Lleida i aquesta setmana hem vencut a l’Handbol La Roca amb un impressionant 32 a 18. Aquests resultats ens permeten seguir en la lluita per les posicions de davant. 💪 No obstant això, aquesta setmana també ha estat agridolça per a nosaltres. La nostra estimada jugadora Azimilza Olga (Doda) ha decidit deixar l’equip. Doda ha estat una part integral del nostre equip i li desitgem tot el millor en els seus futurs empreniments i li agraïm per la seva dedicació i contribucions a l’equip."
+      image: 
+        x: "img/works/lleida-doda.png"
+        _2x: "img/works/lleida-doda@2x.png"
+        alt: "Llavaneres vs Lleida"
+      is_even: true
+
     - title: "Tanquem l'any amb victòria"
       description: "L'últim partit de l'any de l'Handbol Llavaneres no va ser tan brillant com esperàvem, malgrat la victòria de 29 a 23 contra l'Handbol Sant Boi. Vam optar per fer nombroses proves, i tot i que el resultat va ser a favor nostre, el joc no va assolir les expectatives. Després de la desafortunada derrota del cap de setmana anterior, aquesta victòria ha tingut com a objectiu principal restaurar la moral de l'equip. Arribem al final de la primera fase de la lliga com a líders. A l'espera del sorteig per a la pròxima ronda. És evident que hi ha feina per fer i àrees a millorar, però aquesta victòria ens dona la confiança necessària per afrontar els reptes que vindran."
+      is_even: false 
       image: 
         x: "img/works/stboi2.png"
         _2x: "img/works/stboi2@2x.png"
