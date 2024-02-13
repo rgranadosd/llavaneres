@@ -255,6 +255,17 @@ client_and_work:
   title: "Notícies"
   enable: true
   works:
+    - title: "Un pas endavant "
+      description: "Dissabte 10 de Febrer: Després de perdre els dos punts d'or la setmana passada enfront del Palautordera, el nostre equip tenia un repte quasi decisiu aquest cap de setmana. Vam visitar la pista de l'handbol St Quirze, un rival directe en la lluita per les posicions de privilegi. El partit va ser molt igualat, però vam aconseguir emportar-nos la victòria per un punt 31-32. Aquest resultat ens permet seguir lluitant i ens ha donat un bon impuls de moral! 💪"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Veure video"
+        URL: "https://youtu.be/GAWhFiIRKoo"
+      image: 
+       x: "img/works/stquillava.png"
+       _2x: "img/works/stquillava@2x.png"
+       alt: "Handbol St Quirze vs Handbol Llavaneres"
+      is_even: true
     - title: "Homenatge a la nostra Doda"
       description: "Després de la dura derrota contra el St Joan Despí fa dues setmanes, hem aconseguit donar la volta a la situació amb dues victòries consecutives. Primer, vam guanyar a casa contra Lleida i aquesta setmana hem vencut a l’Handbol La Roca amb un impressionant 32 a 18. Aquests resultats ens permeten seguir en la lluita per les posicions de davant. 💪 No obstant això, aquesta setmana també ha estat agridolça per a nosaltres. La nostra estimada jugadora Azimilza Olga (Doda) ha decidit deixar l’equip. Doda ha estat una part integral del nostre equip i li desitgem tot el millor en els seus futurs empreniments i li agraïm per la seva dedicació i contribucions a l’equip."
       image: 
