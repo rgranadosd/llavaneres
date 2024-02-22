@@ -255,6 +255,14 @@ client_and_work:
   title: "Notícies"
   enable: true
   works:
+    - title: "Victòria contundent al partit ajornat contra el St. Andreu!"
+      description: "El passat dimecres 15 de febrer, les nostres noies van enfrontar-se al St. Andreu en un partit ajornat de la lliga. Un encontre que es va resoldre amb una victòria contundent per part del nostre equip, amb un marcador final de 14-54. El resultat final reflecteix la clara superioritat del nostre equip, que suma una nova victòria al seu caseller i ens permet continuar somiant. 💪"
+      image: 
+       x: "img/works/standreu.png"
+       _2x: "img/works/standreu@2x.png"
+       alt: "Handbol St Andreu vs Handbol Llavaneres"
+      is_even: false
+
     - title: "Un pas endavant "
       description: "Dissabte 10 de Febrer: Després de perdre els dos punts d'or la setmana passada enfront del Palautordera, el nostre equip tenia un repte quasi decisiu aquest cap de setmana. Vam visitar la pista de l'handbol St Quirze, un rival directe en la lluita per les posicions de privilegi. El partit va ser molt igualat, però vam aconseguir emportar-nos la victòria per un punt 31-32. Aquest resultat ens permet seguir lluitant i ens ha donat un bon impuls de moral! 💪"
       button:
