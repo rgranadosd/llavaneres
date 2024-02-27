@@ -255,11 +255,19 @@ client_and_work:
   title: "Notícies"
   enable: true
   works:
+    - title: "Bones sensacions per la segona volta!"
+      description: "Divendres 16, l'Handbol Llavaneres va tancar la primera volta de la lliga amb una victòria contundent contra l'Handbol St. Boi per 38 a 26. Un partit còmode a casa nostra que ens deixa amb bones sensacions per afrontar la segona volta.  La segona volta serà més dura, però estem convençuts que podem seguir treballant i millorant per aconseguir els nostres objectius."
+      image: 
+       x: "img/works/llavastboi.png"
+       _2x: "img/works/llavastboi@2x.png"
+       alt: "Handbol Llavaneres vs Handbol St Boi "
+      is_even: true
+
     - title: "Victòria contundent al partit ajornat contra el St. Andreu!"
       description: "El passat dimecres 15 de febrer, les nostres noies van enfrontar-se al St. Andreu en un partit ajornat de la lliga. Un encontre que es va resoldre amb una victòria contundent per part del nostre equip, amb un marcador final de 14-54. El resultat final reflecteix la clara superioritat del nostre equip, que suma una nova victòria al seu caseller i ens permet continuar somiant. 💪"
       image: 
        x: "img/works/standreu.png"
-       _2x: "img/works/standreu@2x.png"
+       _2x: "img/works/st2x.png"
        alt: "Handbol St Andreu vs Handbol Llavaneres"
       is_even: false
 
