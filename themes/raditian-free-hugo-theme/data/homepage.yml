@@ -261,8 +261,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Veure video"
-        URL: "https://youtu.be/GAWhFiIRKoo"
-
+        URL: "https://youtu.be/RYG2szYZeV0"
       image: 
         x: "img/works/llavastjoan.jpg"
         _2x: "img/works/llavastjoan@2x.jpg"
