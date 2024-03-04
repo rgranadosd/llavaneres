@@ -255,6 +255,15 @@ client_and_work:
   title: "Notícies"
   enable: true
   works:
+    - title: "Victòria trepidant i Gol Average favorable!"
+      description: "El dissabte 24 de febrer, el Handbol Sant Joan Despí va visitar la nostra pista en un partit vibrant i ple d'emoció. Des del principi, la igualtat va ser la tònica dominant, amb un Handbol Llavaneres que sempre va anar per davant, però sense una renda considerable. La tensió va augmentar fins al final del partit, que es va resoldre amb un ajustat 26 a 23 a favor nostre. Aquesta victòria és crucial, ja que recuperem el Gol Average favorable i ens situem per davant del Handbol Sant Joan Despí a la classificació. 
+                    Felicitats a totes les jugadoras per la seva entrega!"
+      image: 
+        x: "img/works/llavastboi.png"
+        _2x: "img/works/llavastboi@2x.png"
+        alt: "Handbol Llavaneres vs Handbol St Joan Despí "
+      is_even: false
+
     - title: "Bones sensacions per la segona volta!"
       description: "Divendres 16, l'Handbol Llavaneres va tancar la primera volta de la lliga amb una victòria contundent contra l'Handbol St. Boi per 38 a 26. Un partit còmode a casa nostra que ens deixa amb bones sensacions per afrontar la segona volta.  La segona volta serà més dura, però estem convençuts que podem seguir treballant i millorant per aconseguir els nostres objectius."
       image: 
