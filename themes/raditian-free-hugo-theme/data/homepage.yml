@@ -256,7 +256,7 @@ client_and_work:
   enable: true
   works:
     - title: "Victòria trepidant i Gol Average favorable!"
-      description: "El dissabte 24 de febrer, el Handbol Sant Joan Despí va visitar la nostra pista en un partit vibrant i ple d'emoció. Des del principi, la igualtat va ser la tònica dominant, amb un Handbol Llavaneres que sempre va anar per davant, però sense una renda considerable. La tensió va augmentar fins al final del partit, que es va resoldre amb un ajustat 26 a 23 a favor nostre. Aquesta victòria és crucial, ja que recuperem el Gol Average favorable i ens situem per davant del Handbol Sant Joan Despí a la classificació. 
+      description: "El dissabte 24 de febrer, el Handbol Sant Joan Despí va visitar la nostra pista en un partit vibrant i ple d'emoció. Des del principi, la igualtat va ser la tònica dominant, amb un Handbol Llavaneres que sempre va anar per davant, però sense una renda considerable. La tensió va augmentar fins al final del partit, que es va resoldre amb un ajustat 26 a 23 a favor nostre. Aquesta victòria és crucial, ja que recuperem el Gol Average favorable. 
                     Felicitats a totes les jugadoras per la seva entrega!"
       image: 
         x: "img/works/llavastjoan.jpg"
