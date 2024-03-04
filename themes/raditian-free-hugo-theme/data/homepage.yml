@@ -258,6 +258,11 @@ client_and_work:
     - title: "Victòria trepidant i Gol Average favorable!"
       description: "El dissabte 24 de febrer, el Handbol Sant Joan Despí va visitar la nostra pista en un partit vibrant i ple d'emoció. Des del principi, la igualtat va ser la tònica dominant, amb un Handbol Llavaneres que sempre va anar per davant, però sense una renda considerable. La tensió va augmentar fins al final del partit, que es va resoldre amb un ajustat 26 a 23 a favor nostre. Aquesta victòria és crucial, ja que recuperem el Gol Average favorable. 
                     Felicitats a totes les jugadoras per la seva entrega!"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Veure video"
+        URL: "https://youtu.be/GAWhFiIRKoo"
+
       image: 
         x: "img/works/llavastjoan.jpg"
         _2x: "img/works/llavastjoan@2x.jpg"
@@ -276,7 +281,7 @@ client_and_work:
       description: "El passat dimecres 15 de febrer, les nostres noies van enfrontar-se al St. Andreu en un partit ajornat de la lliga. Un encontre que es va resoldre amb una victòria contundent per part del nostre equip, amb un marcador final de 14-54. El resultat final reflecteix la clara superioritat del nostre equip, que suma una nova victòria al seu caseller i ens permet continuar somiant. 💪"
       image: 
        x: "img/works/standreu.png"
-       _2x: "img/works/st2x.png"
+       _2x: "img/works/standreu@2x.png"
        alt: "Handbol St Andreu vs Handbol Llavaneres"
       is_even: false
 
