@@ -259,8 +259,8 @@ client_and_work:
       description: "El dissabte 24 de febrer, el Handbol Sant Joan Despí va visitar la nostra pista en un partit vibrant i ple d'emoció. Des del principi, la igualtat va ser la tònica dominant, amb un Handbol Llavaneres que sempre va anar per davant, però sense una renda considerable. La tensió va augmentar fins al final del partit, que es va resoldre amb un ajustat 26 a 23 a favor nostre. Aquesta victòria és crucial, ja que recuperem el Gol Average favorable i ens situem per davant del Handbol Sant Joan Despí a la classificació. 
                     Felicitats a totes les jugadoras per la seva entrega!"
       image: 
-        x: "img/works/llavastboi.png"
-        _2x: "img/works/llavastboi@2x.png"
+        x: "img/works/llavastjoan.jpg"
+        _2x: "img/works/llavastjoan@2x.jpg"
         alt: "Handbol Llavaneres vs Handbol St Joan Despí "
       is_even: false
 
