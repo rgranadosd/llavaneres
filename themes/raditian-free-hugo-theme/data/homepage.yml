@@ -255,6 +255,15 @@ client_and_work:
   title: "Notícies"
   enable: true
   works:
+    - title: "L'Handbol Llavaneres s'imposa a Lleida "
+      description: "El passat dia 2 de Març, l'Handbol Llavaneres va viatjar a Lleida per a enfrontar-se al seu equip local. Amb un partit molt lluitat, les nostres noies van saber aguantar la pressió del públic local i van aconseguir la victòria per 26 a 33. Aquest resultat ens permet seguir lluitant per les posicions de privilegi. 
+                    Felicitats a totes les jugadoras per la seva entrega!"
+      image: 
+        x: "img/works/lleidallava.jpeg"
+        _2x: "img/works/lleidallava@2x.jpeg"
+        alt: "Handbol Lleida vs Handbol Llavaneres  "
+      is_even: true
+
     - title: "Victòria trepidant i Gol Average favorable!"
       description: "El dissabte 24 de febrer, el Handbol Sant Joan Despí va visitar la nostra pista en un partit vibrant i ple d'emoció. Des del principi, la igualtat va ser la tònica dominant, amb un Handbol Llavaneres que sempre va anar per davant, però sense una renda considerable. La tensió va augmentar fins al final del partit, que es va resoldre amb un ajustat 26 a 23 a favor nostre. Aquesta victòria és crucial, ja que recuperem el Gol Average favorable. 
                     Felicitats a totes les jugadoras per la seva entrega!"
