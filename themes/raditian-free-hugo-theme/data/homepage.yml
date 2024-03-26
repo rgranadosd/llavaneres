@@ -264,8 +264,8 @@ client_and_work:
         URL: "https://youtu.be/belnMZIeqWI"
 
       image: 
-        x: "img/works/lleidallava.jpeg"
-        _2x: "img/works/lleidallava@2x.jpeg"
+        x: "img/works/llavastqui.jpeg"
+        _2x: "img/works/llavastqui@2x.jpeg"
         alt: "Handbol Llavaneres vs Handbol St Quirze "
       is_even: false
 
