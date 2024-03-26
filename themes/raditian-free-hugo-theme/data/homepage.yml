@@ -255,9 +255,27 @@ client_and_work:
   title: "Notícies"
   enable: true
   works:
+    - title: "El Handbol Llavaneres, imparable s'acosta al TOP6!"
+      description: "El dissabte 23, el Handbol Llavaneres va jugar un partit crucial contra el Handbol St Quirze, un rival directe per al TOP6. En un enfrontament molt disputat i emocionant, el nostre equip va veure's superat en el marcador en diverses ocasions. No obstant això, el Handbol Llavaneres van emergir en els últims 10 minuts. Amb una remuntada apassionant, vam aconseguir capgirar el marcador i obtenir una victòria importantíssima.
+                    Aquest triomf ens apropa al nostre objectiu de situar-nos entre els sis millors equips de la classificació. Enhorabona a tot l'equip"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Veure video"
+        URL: "https://youtu.be/belnMZIeqWI"
+
+      image: 
+        x: "img/works/lleidallava.jpeg"
+        _2x: "img/works/lleidallava@2x.jpeg"
+        alt: "Handbol Llavaneres vs Handbol St Quirze "
+      is_even: false
+
     - title: "L'Handbol Llavaneres s'imposa a Lleida "
       description: "El passat dia 2 de Març, l'Handbol Llavaneres va viatjar a Lleida per a enfrontar-se al seu equip local. Amb un partit molt lluitat, les nostres noies van saber aguantar la pressió del públic local i van aconseguir la victòria per 26 a 33. Aquest resultat ens permet seguir lluitant per les posicions de privilegi. 
                     Felicitats a totes les jugadoras per la seva entrega!"
+
+      
+
+
       image: 
         x: "img/works/lleidallava.jpeg"
         _2x: "img/works/lleidallava@2x.jpeg"
