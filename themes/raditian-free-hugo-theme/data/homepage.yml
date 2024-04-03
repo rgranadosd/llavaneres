@@ -255,6 +255,19 @@ client_and_work:
   title: "Notícies"
   enable: true
   works:
+    - title: "Subcampiones en la X edició del Torneig d'Ainatasuna"
+      description: "Pamplona, 31 de març de 2024 , L'Handbol Llavaneres ha aconseguit el subcampionat en la categoria juvenil femenina del X Torneig Safety Car d'Handbol, celebrat a Pamplona del 28 al 31 de març.
+                    Les nostres noies, després d'una notable participació en el torneig, van cedir a la final davant l'equip amfitrió, l'Anaitasuna. El subcampionat aconseguit és un gran fita, que ha demostrat la nostra competitivitat en un torneig d'alt nivell."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Veure videos"
+        URL: "https://www.youtube.com/@TorneoSSBMAnaitasuna"
+
+      image: 
+        x: "img/works/anaita.jpg"
+        _2x: "img/works/anaita@2x.jpg"
+        alt: "Handbol Llavaneres vs Handbol St Quirze "
+      is_even: true
     - title: "El Handbol Llavaneres, imparable s'acosta al TOP6!"
       description: "El dissabte 23, el Handbol Llavaneres va jugar un partit crucial contra el Handbol St Quirze, un rival directe per al TOP6. En un enfrontament molt disputat i emocionant, el nostre equip va veure's superat en el marcador en diverses ocasions. No obstant això, el Handbol Llavaneres van emergir en els últims 10 minuts. Amb una remuntada apassionant, vam aconseguir capgirar el marcador i obtenir una victòria importantíssima.
                     Aquest triomf ens apropa al nostre objectiu de situar-nos entre els sis millors equips de la classificació. Enhorabona a tot l'equip"
@@ -272,10 +285,6 @@ client_and_work:
     - title: "L'Handbol Llavaneres s'imposa a Lleida "
       description: "El passat dia 2 de Març, l'Handbol Llavaneres va viatjar a Lleida per a enfrontar-se al seu equip local. Amb un partit molt lluitat, les nostres noies van saber aguantar la pressió del públic local i van aconseguir la victòria per 26 a 33. Aquest resultat ens permet seguir lluitant per les posicions de privilegi. 
                     Felicitats a totes les jugadoras per la seva entrega!"
-
-      
-
-
       image: 
         x: "img/works/lleidallava.jpeg"
         _2x: "img/works/lleidallava@2x.jpeg"
